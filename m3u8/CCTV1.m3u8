@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8500000
-http://42.202.19.2:8818/hls/1/index.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
