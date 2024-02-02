@@ -311,3 +311,208 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+#大江大河之岁月如歌/33集完结
+#EXTINF:-1 tvg-id="第01集" tvg-name="第01集" tvg-logo="" group-title="大江大河之岁月如歌",第01集
+https://vip.ffzyread.com/20240108/21883_0ac4ee53/index.m3u8
+#EXTINF:-1 tvg-id="第02集" tvg-name="第02集" tvg-logo="" group-title="大江大河之岁月如歌",第02集
+https://vip.ffzyread.com/20240108/21884_b1449b4b/index.m3u8
+#EXTINF:-1 tvg-id="第03集" tvg-name="第03集" tvg-logo="" group-title="大江大河之岁月如歌",第03集
+https://vip.ffzyread.com/20240108/21885_c122fc6b/index.m3u8
+#EXTINF:-1 tvg-id="第04集" tvg-name="第04集" tvg-logo="" group-title="大江大河之岁月如歌",第04集
+https://vip.ffzyread.com/20240109/21912_00dfc131/index.m3u8
+#EXTINF:-1 tvg-id="第05集" tvg-name="第05集" tvg-logo="" group-title="大江大河之岁月如歌",第05集
+https://vip.ffzyread.com/20240110/21945_e020a891/index.m3u8
+#EXTINF:-1 tvg-id="第06集" tvg-name="第06集" tvg-logo="" group-title="大江大河之岁月如歌",第06集
+https://vip.ffzyread.com/20240110/21944_5a621f91/index.m3u8
+#EXTINF:-1 tvg-id="第07集" tvg-name="第07集" tvg-logo="" group-title="大江大河之岁月如歌",第07集
+https://vip.ffzyread.com/20240111/22015_31c7c6eb/index.m3u8
+#EXTINF:-1 tvg-id="第08集" tvg-name="第08集" tvg-logo="" group-title="大江大河之岁月如歌",第08集
+https://vip.ffzyread.com/20240111/22014_7401579b/index.m3u8
+#EXTINF:-1 tvg-id="第09集" tvg-name="第09集" tvg-logo="" group-title="大江大河之岁月如歌",第09集
+https://vip.ffzyread.com/20240112/22055_67315ce5/index.m3u8
+#EXTINF:-1 tvg-id="第10集" tvg-name="第10集" tvg-logo="" group-title="大江大河之岁月如歌",第10集
+https://vip.ffzyread.com/20240112/22054_4d537543/index.m3u8
+#EXTINF:-1 tvg-id="第11集" tvg-name="第11集" tvg-logo="" group-title="大江大河之岁月如歌",第11集
+https://vip.ffzyread.com/20240115/22155_6c77982c/index.m3u8
+#EXTINF:-1 tvg-id="第12集" tvg-name="第12集" tvg-logo="" group-title="大江大河之岁月如歌",第12集
+https://vip.ffzyread.com/20240115/22154_37e2b764/index.m3u8
+#EXTINF:-1 tvg-id="第13集" tvg-name="第13集" tvg-logo="" group-title="大江大河之岁月如歌",第13集
+https://vip.ffzyread.com/20240116/22193_df7b7899/index.m3u8
+#EXTINF:-1 tvg-id="第14集" tvg-name="第14集" tvg-logo="" group-title="大江大河之岁月如歌",第14集
+https://vip.ffzyread.com/20240116/22192_4362e96a/index.m3u8
+#EXTINF:-1 tvg-id="第15集" tvg-name="第15集" tvg-logo="" group-title="大江大河之岁月如歌",第15集
+https://vip.ffzyread.com/20240117/22228_8efb69f4/index.m3u8
+#EXTINF:-1 tvg-id="第16集" tvg-name="第16集" tvg-logo="" group-title="大江大河之岁月如歌",第16集
+https://vip.ffzyread.com/20240117/22227_dc46df8c/index.m3u8
+#EXTINF:-1 tvg-id="第17集" tvg-name="第17集" tvg-logo="" group-title="大江大河之岁月如歌",第17集
+https://vip.ffzyread.com/20240118/22283_ba11cf6d/index.m3u8
+#EXTINF:-1 tvg-id="第18集" tvg-name="第18集" tvg-logo="" group-title="大江大河之岁月如歌",第18集
+https://vip.ffzyread.com/20240118/22282_b1d2c5a7/index.m3u8
+#EXTINF:-1 tvg-id="第19集" tvg-name="第19集" tvg-logo="" group-title="大江大河之岁月如歌",第19集
+https://vip.ffzyread.com/20240122/22498_b120ee09/index.m3u8
+#EXTINF:-1 tvg-id="第20集" tvg-name="第20集" tvg-logo="" group-title="大江大河之岁月如歌",第20集
+https://vip.ffzyread.com/20240122/22497_39b067a7/index.m3u8
+#EXTINF:-1 tvg-id="第21集" tvg-name="第21集" tvg-logo="" group-title="大江大河之岁月如歌",第21集
+https://vip.ffzyread.com/20240123/22528_2010dda9/index.m3u8
+#EXTINF:-1 tvg-id="第22集" tvg-name="第22集" tvg-logo="" group-title="大江大河之岁月如歌",第22集
+https://vip.ffzyread.com/20240123/22527_9f1c8b91/index.m3u8
+#EXTINF:-1 tvg-id="第23集" tvg-name="第23集" tvg-logo="" group-title="大江大河之岁月如歌",第23集
+https://vip.ffzyread.com/20240124/22560_fad658d5/index.m3u8
+#EXTINF:-1 tvg-id="第24集" tvg-name="第24集" tvg-logo="" group-title="大江大河之岁月如歌",第24集
+https://vip.ffzyread.com/20240124/22559_246717c5/index.m3u8
+#EXTINF:-1 tvg-id="第25集" tvg-name="第25集" tvg-logo="" group-title="大江大河之岁月如歌",第25集
+https://vip.ffzyread.com/20240125/22599_fdbce633/index.m3u8
+#EXTINF:-1 tvg-id="第26集" tvg-name="第26集" tvg-logo="" group-title="大江大河之岁月如歌",第26集
+https://vip.ffzyread.com/20240125/22598_fba00bf0/index.m3u8
+#EXTINF:-1 tvg-id="第27集" tvg-name="第27集" tvg-logo="" group-title="大江大河之岁月如歌",第27集
+https://vip.ffzyread.com/20240128/22807_73803935/index.m3u8
+#EXTINF:-1 tvg-id="第28集" tvg-name="第28集" tvg-logo="" group-title="大江大河之岁月如歌",第28集
+https://vip.ffzyread.com/20240128/22806_ebbb611a/index.m3u8
+#EXTINF:-1 tvg-id="第29集" tvg-name="第29集" tvg-logo="" group-title="大江大河之岁月如歌",第29集
+https://vip.ffzyread.com/20240129/22832_37d5c03f/index.m3u8
+#EXTINF:-1 tvg-id="第30集" tvg-name="第30集" tvg-logo="" group-title="大江大河之岁月如歌",第30集
+https://vip.ffzyread.com/20240129/22831_0551b719/index.m3u8
+#EXTINF:-1 tvg-id="第31集" tvg-name="第31集" tvg-logo="" group-title="大江大河之岁月如歌",第31集
+https://vip.ffzyread.com/20240130/22861_cf91518e/index.m3u8
+#EXTINF:-1 tvg-id="第32集" tvg-name="第32集" tvg-logo="" group-title="大江大河之岁月如歌",第32集
+https://vip.ffzyread.com/20240130/22860_0cc3876d/index.m3u8
+#EXTINF:-1 tvg-id="第33集" tvg-name="第33集" tvg-logo="" group-title="大江大河之岁月如歌",第33集
+https://vip.ffzyread.com/20240131/22896_c72a424c/index.m3u8
+
+#小城故事多/30集完结
+#EXTINF:-1 tvg-id="第01集" tvg-name="第01集" tvg-logo="" group-title="小城故事多",第01集
+https://vip.ffzyread1.com/20240121/23596_349fec85/index.m3u8
+#EXTINF:-1 tvg-id="第02集" tvg-name="第02集" tvg-logo="" group-title="小城故事多",第02集
+https://vip.ffzyread1.com/20240121/23597_74154e3e/index.m3u8
+#EXTINF:-1 tvg-id="第03集" tvg-name="第03集" tvg-logo="" group-title="小城故事多",第03集
+https://vip.ffzyread1.com/20240121/23598_75a99a58/index.m3u8
+#EXTINF:-1 tvg-id="第04集" tvg-name="第04集" tvg-logo="" group-title="小城故事多",第04集
+https://vip.ffzyread1.com/20240121/23599_f7060c23/index.m3u8
+#EXTINF:-1 tvg-id="第05集" tvg-name="第05集" tvg-logo="" group-title="小城故事多",第05集
+https://vip.ffzyread1.com/20240121/23600_c463539b/index.m3u8
+#EXTINF:-1 tvg-id="第06集" tvg-name="第06集" tvg-logo="" group-title="小城故事多",第06集
+https://vip.ffzyread1.com/20240121/23601_7b179f74/index.m3u8
+#EXTINF:-1 tvg-id="第07集" tvg-name="第07集" tvg-logo="" group-title="小城故事多",第07集
+https://vip.ffzyread1.com/20240121/23602_b9030083/index.m3u8
+#EXTINF:-1 tvg-id="第08集" tvg-name="第08集" tvg-logo="" group-title="小城故事多",第08集
+https://vip.ffzyread1.com/20240121/23603_252decc6/index.m3u8
+#EXTINF:-1 tvg-id="第09集" tvg-name="第09集" tvg-logo="" group-title="小城故事多",第09集
+https://vip.ffzyread1.com/20240122/23631_275b0951/index.m3u8
+#EXTINF:-1 tvg-id="第10集" tvg-name="第10集" tvg-logo="" group-title="小城故事多",第10集
+https://vip.ffzyread1.com/20240122/23630_e96d6764/index.m3u8
+#EXTINF:-1 tvg-id="第11集" tvg-name="第11集" tvg-logo="" group-title="小城故事多",第11集
+https://vip.ffzyread1.com/20240123/23655_8979835b/index.m3u8
+#EXTINF:-1 tvg-id="第12集" tvg-name="第12集" tvg-logo="" group-title="小城故事多",第12集
+https://vip.ffzyread1.com/20240123/23654_4d8672fe/index.m3u8
+#EXTINF:-1 tvg-id="第13集" tvg-name="第13集" tvg-logo="" group-title="小城故事多",第13集
+https://vip.ffzyread1.com/20240124/23689_be8952a4/index.m3u8
+#EXTINF:-1 tvg-id="第14集" tvg-name="第14集" tvg-logo="" group-title="小城故事多",第14集
+https://vip.ffzyread1.com/20240124/23688_f5f9b572/index.m3u8
+#EXTINF:-1 tvg-id="第15集" tvg-name="第15集" tvg-logo="" group-title="小城故事多",第15集
+https://vip.ffzyread1.com/20240125/23731_4b6f488a/index.m3u8
+#EXTINF:-1 tvg-id="第16集" tvg-name="第16集" tvg-logo="" group-title="小城故事多",第16集
+https://vip.ffzyread1.com/20240125/23730_490e5661/index.m3u8
+#EXTINF:-1 tvg-id="第17集" tvg-name="第17集" tvg-logo="" group-title="小城故事多",第17集
+https://vip.ffzyread1.com/20240126/23764_e3fdd56a/index.m3u8
+#EXTINF:-1 tvg-id="第18集" tvg-name="第18集" tvg-logo="" group-title="小城故事多",第18集
+https://vip.ffzyread1.com/20240126/23763_6cd75375/index.m3u8
+#EXTINF:-1 tvg-id="第19集" tvg-name="第19集" tvg-logo="" group-title="小城故事多",第19集
+https://vip.ffzyread1.com/20240127/23789_d2c6eadb/index.m3u8
+#EXTINF:-1 tvg-id="第20集" tvg-name="第20集" tvg-logo="" group-title="小城故事多",第20集
+https://vip.ffzyread1.com/20240127/23788_36d7d47a/index.m3u8
+#EXTINF:-1 tvg-id="第21集" tvg-name="第21集" tvg-logo="" group-title="小城故事多",第21集
+https://vip.ffzyread1.com/20240128/23816_c86a44d0/index.m3u8
+#EXTINF:-1 tvg-id="第22集" tvg-name="第22集" tvg-logo="" group-title="小城故事多",第22集
+https://vip.ffzyread1.com/20240128/23815_811022d6/index.m3u8
+#EXTINF:-1 tvg-id="第23集" tvg-name="第23集" tvg-logo="" group-title="小城故事多",第23集
+https://vip.ffzyread1.com/20240129/23845_646fbc4b/index.m3u8
+#EXTINF:-1 tvg-id="第24集" tvg-name="第24集" tvg-logo="" group-title="小城故事多",第24集
+https://vip.ffzyread1.com/20240129/23844_2bad1aa2/index.m3u8
+#EXTINF:-1 tvg-id="第25集" tvg-name="第25集" tvg-logo="" group-title="小城故事多",第25集
+https://vip.ffzyread1.com/20240130/23873_21370832/index.m3u8
+#EXTINF:-1 tvg-id="第26集" tvg-name="第26集" tvg-logo="" group-title="小城故事多",第26集
+https://vip.ffzyread1.com/20240130/23872_2d04df63/index.m3u8
+#EXTINF:-1 tvg-id="第27集" tvg-name="第27集" tvg-logo="" group-title="小城故事多",第27集
+https://vip.ffzyread1.com/20240131/23902_70e497dd/index.m3u8
+#EXTINF:-1 tvg-id="第28集" tvg-name="第28集" tvg-logo="" group-title="小城故事多",第28集
+https://vip.ffzyread1.com/20240131/23901_e5b66af9/index.m3u8
+#EXTINF:-1 tvg-id="第29集" tvg-name="第29集" tvg-logo="" group-title="小城故事多",第29集
+https://vip.ffzyread1.com/20240201/23952_f6fd0711/index.m3u8
+#EXTINF:-1 tvg-id="第30集" tvg-name="第30集" tvg-logo="" group-title="小城故事多",第30集
+https://vip.ffzyread1.com/20240201/23951_d456434b/index.m3u8
+
+#仙剑四/33集完结
+#EXTINF:-1 tvg-id="第01集" tvg-name="第01集" tvg-logo="" group-title="仙剑四",第01集
+https://vip.ffzyread.com/20240117/22219_5bbc5483/index.m3u8
+#EXTINF:-1 tvg-id="第02集" tvg-name="第02集" tvg-logo="" group-title="仙剑四",第02集
+https://vip.ffzyread.com/20240117/22220_5d8255e9/index.m3u8
+#EXTINF:-1 tvg-id="第03集" tvg-name="第03集" tvg-logo="" group-title="仙剑四",第03集
+https://vip.ffzyread.com/20240117/22221_45593de2/index.m3u8
+#EXTINF:-1 tvg-id="第04集" tvg-name="第04集" tvg-logo="" group-title="仙剑四",第04集
+https://vip.ffzyread.com/20240117/22222_ee5b41b0/index.m3u8
+#EXTINF:-1 tvg-id="第05集" tvg-name="第05集" tvg-logo="" group-title="仙剑四",第05集
+https://vip.ffzyread.com/20240117/22223_cf5f75ec/index.m3u8
+#EXTINF:-1 tvg-id="第06集" tvg-name="第06集" tvg-logo="" group-title="仙剑四",第06集
+https://vip.ffzyread.com/20240117/22224_6728bc2e/index.m3u8
+#EXTINF:-1 tvg-id="第07集" tvg-name="第07集" tvg-logo="" group-title="仙剑四",第07集
+https://vip.ffzyread.com/20240118/22265_e59af5df/index.m3u8
+#EXTINF:-1 tvg-id="第08集" tvg-name="第08集" tvg-logo="" group-title="仙剑四",第08集
+https://vip.ffzyread.com/20240118/22264_b7898965/index.m3u8
+#EXTINF:-1 tvg-id="第09集" tvg-name="第09集" tvg-logo="" group-title="仙剑四",第09集
+https://vip.ffzyread.com/20240119/22361_fdfd03ef/index.m3u8
+#EXTINF:-1 tvg-id="第10集" tvg-name="第10集" tvg-logo="" group-title="仙剑四",第10集
+https://vip.ffzyread.com/20240119/22360_5ac0b3f9/index.m3u8
+#EXTINF:-1 tvg-id="第11集" tvg-name="第11集" tvg-logo="" group-title="仙剑四",第11集
+https://vip.ffzyread.com/20240120/22413_d1417ed1/index.m3u8
+#EXTINF:-1 tvg-id="第12集" tvg-name="第12集" tvg-logo="" group-title="仙剑四",第12集
+https://vip.ffzyread.com/20240120/22412_b3a60592/index.m3u8
+#EXTINF:-1 tvg-id="第13集" tvg-name="第13集" tvg-logo="" group-title="仙剑四",第13集
+https://vip.ffzyread.com/20240121/22459_d3415f1c/index.m3u8
+#EXTINF:-1 tvg-id="第14集" tvg-name="第14集" tvg-logo="" group-title="仙剑四",第14集
+https://vip.ffzyread.com/20240121/22458_d679d62a/index.m3u8
+#EXTINF:-1 tvg-id="第15集" tvg-name="第15集" tvg-logo="" group-title="仙剑四",第15集
+https://vip.ffzyread.com/20240122/22490_2cfe18dd/index.m3u8
+#EXTINF:-1 tvg-id="第16集" tvg-name="第16集" tvg-logo="" group-title="仙剑四",第16集
+https://vip.ffzyread.com/20240122/22489_3f091a2d/index.m3u8
+#EXTINF:-1 tvg-id="第17集" tvg-name="第17集" tvg-logo="" group-title="仙剑四",第17集
+https://vip.ffzyread.com/20240123/22520_b01c2284/index.m3u8
+#EXTINF:-1 tvg-id="第18集" tvg-name="第18集" tvg-logo="" group-title="仙剑四",第18集
+https://vip.ffzyread.com/20240123/22519_59893a25/index.m3u8
+#EXTINF:-1 tvg-id="第19集" tvg-name="第19集" tvg-logo="" group-title="仙剑四",第19集
+https://vip.ffzyread.com/20240124/22558_4c194ebc/index.m3u8
+#EXTINF:-1 tvg-id="第20集" tvg-name="第20集" tvg-logo="" group-title="仙剑四",第20集
+https://vip.ffzyread.com/20240124/22557_c3238b0a/index.m3u8
+#EXTINF:-1 tvg-id="第21集" tvg-name="第21集" tvg-logo="" group-title="仙剑四",第21集
+https://vip.ffzyread.com/20240125/22594_3ae46e5d/index.m3u8
+#EXTINF:-1 tvg-id="第22集" tvg-name="第22集" tvg-logo="" group-title="仙剑四",第22集
+https://vip.ffzyread.com/20240125/22593_7167c84c/index.m3u8
+#EXTINF:-1 tvg-id="第23集" tvg-name="第23集" tvg-logo="" group-title="仙剑四",第23集
+https://vip.ffzyread.com/20240126/22672_738b4de4/index.m3u8
+#EXTINF:-1 tvg-id="第24集" tvg-name="第24集" tvg-logo="" group-title="仙剑四",第24集
+https://vip.ffzyread.com/20240126/22671_b49b2871/index.m3u8
+#EXTINF:-1 tvg-id="第25集" tvg-name="第25集" tvg-logo="" group-title="仙剑四",第25集
+https://vip.ffzyread.com/20240127/22759_a8c7031a/index.m3u8
+#EXTINF:-1 tvg-id="第26集" tvg-name="第26集" tvg-logo="" group-title="仙剑四",第26集
+https://vip.ffzyread.com/20240127/22758_44f58304/index.m3u8
+#EXTINF:-1 tvg-id="第27集" tvg-name="第27集" tvg-logo="" group-title="仙剑四",第27集
+https://vip.ffzyread.com/20240128/22799_1810134e/index.m3u8
+#EXTINF:-1 tvg-id="第28集" tvg-name="第28集" tvg-logo="" group-title="仙剑四",第28集
+https://vip.ffzyread.com/20240128/22798_0b3c439d/index.m3u8
+#EXTINF:-1 tvg-id="第29集" tvg-name="第29集" tvg-logo="" group-title="仙剑四",第29集
+https://vip.ffzyread.com/20240129/22826_48eabf27/index.m3u8
+#EXTINF:-1 tvg-id="第30集" tvg-name="第30集" tvg-logo="" group-title="仙剑四",第30集
+https://vip.ffzyread.com/20240129/22825_048ebbde/index.m3u8
+#EXTINF:-1 tvg-id="第31集" tvg-name="第31集" tvg-logo="" group-title="仙剑四",第31集
+https://vip.ffzyread.com/20240130/22855_7bb63106/index.m3u8
+#EXTINF:-1 tvg-id="第32集" tvg-name="第32集" tvg-logo="" group-title="仙剑四",第32集
+https://vip.ffzyread.com/20240130/22854_d1bc5772/index.m3u8
+#EXTINF:-1 tvg-id="第33集" tvg-name="第33集" tvg-logo="" group-title="仙剑四",第33集
+https://vip.ffzyread.com/20240131/22893_9d325f75/index.m3u8
+#EXTINF:-1 tvg-id="第34集" tvg-name="第34集" tvg-logo="" group-title="仙剑四",第34集
+https://vip.ffzyread.com/20240131/22892_47889c4a/index.m3u8
+#EXTINF:-1 tvg-id="第35集" tvg-name="第35集" tvg-logo="" group-title="仙剑四",第35集
+https://vip.ffzyread.com/20240201/22928_de52b141/index.m3u8
+#EXTINF:-1 tvg-id="第36集" tvg-name="第36集" tvg-logo="" group-title="仙剑四",第36集
+https://vip.ffzyread.com/20240201/22927_54aff69a/index.m3u8
