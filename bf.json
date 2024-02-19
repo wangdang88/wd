@@ -4,7 +4,7 @@
       "key": "暴风资源",
       "name": "暴风资源",
       "type": 0,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/at/xml",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
       "playUrl": "https://leshivideoplayurl.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
