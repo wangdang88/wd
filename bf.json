@@ -4,7 +4,7 @@
       "key": "暴风资源",
       "name": "暴风资源",
       "type": 0,
-      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "api": " https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://bfzyplayer.com/player/?url=",
       "searchable": 1,
       "quickSearch": 1,
