@@ -4,25 +4,49 @@
       "key": "快车资源",
       "name": "快车资源",
       "type": 0,
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jiexi.kczyapi.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "非凡资源",
+      "name": "非凡资源",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "playUrl": "https://ffzyplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
         "国产剧",
-        "香港剧",
-        "韩国剧",
         "欧美剧",
-        "泰国剧",
-        "海外剧",
+        "香港剧",
         "台湾剧",
+        "韩国剧",
         "日本剧",
-        "电影",
-        "综艺",
-        "体育",
+        "海外剧",
+        "泰国剧",
         "短剧",
-        "动漫"
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "伦理片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
       ]
     }
   ],
@@ -33,7 +57,7 @@
         {
           "name": "直播源",
           "urls": [
-            "about:blank"
+            "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV.m3u"
           ]
         }
       ]
@@ -42,8 +66,7 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 1
     }
   ],
   "flags": [
