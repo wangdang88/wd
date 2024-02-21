@@ -26,7 +26,7 @@
         {
             "key": "荐片",
             "name": "🎬┃荐片┃影视",
-            "api": "csp_Jianpian",
+            "api": "csp_XBPQ",
             "type": 3,
             "playerType": "2",
             "ext": "http://api2.rinhome.com"
