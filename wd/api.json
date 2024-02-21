@@ -24,10 +24,10 @@
             "ext": "./js/Doubanrebo.js"
         },
         {
-            "key": "FreeOK",
+            "key": "csp_xBPQ_Fre",
             "name": "️️👌┃Fre┃影视",
             "type": 3,
-            "api": "csp_Freeok",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
