@@ -26,8 +26,8 @@
             {
       "key": "闪电影视",
       "name": "🅱️闪电影视|T追剧",
-      "type": 1,
-      "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
+      "type": 0,
+      "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
