@@ -24,10 +24,19 @@
             "ext": "./js/Doubanrebo.js"
         },
             {
-      "key": "闪电影视",
-      "name": "🅱️闪电影视|T追剧",
+      "key": "金鹰影视",
+      "name": "🅱️金鹰影视|T追剧",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+            {
+      "key": "快看影视",
+      "name": "🅱️快看影视|T追剧",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
