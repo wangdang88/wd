@@ -24,12 +24,12 @@
             "ext": "./js/Doubanrebo.js"
         },
         {
-            "key": "荐片",
-            "name": "🎬┃荐片┃影视",
-            "api": "csp_XBPQ",
+            "key": "低端",
+            "name": "🛣┃低端┃影视",
             "type": 3,
             "playerType": "2",
-            "ext": "http://api2.rinhome.com"
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/ddys.js"
         },
         {
             "key": "wogg",
