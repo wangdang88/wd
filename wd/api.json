@@ -45,7 +45,7 @@
       "key": "暴风影视",
       "name": "🅱️暴风影视|T追剧",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
