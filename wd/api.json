@@ -33,20 +33,20 @@
         },
         {
             "key": "量子",
-            "name": "🦄量子┃资源",
+            "name": "🅱️量子影视|T追剧",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
             "playUrl": "json:http://api.suxun.site/api/delad?url="
         },
         {
             "key": "豪华",
-            "name": "🦄豪华┃资源",
+            "name": "🅱️豪华影视|T追剧",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "csp_星辰",
-            "name": "🎦星辰┃秒播",
+            "name": "🅱️星辰影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -56,7 +56,7 @@
         },
         {
             "key": "csp_vs",
-            "name": "🎦VS┃秒播",
+            "name": "🅱️VS秒播|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -66,7 +66,7 @@
         },
         {
             "key": "csp_xBPQ_九八",
-            "name": "🎦九八┃秒播",
+            "name": "🅱️九八秒播|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -76,7 +76,7 @@
         },
         {
             "key": "csp_XYQBiu_骚火VIP",
-            "name": "🎦骚火VIP",
+            "name": "🅱️骚火VIP|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -86,7 +86,7 @@
         },
         {
             "key": "TVB云播",
-            "name": "🎦TVB云播",
+            "name": "🅱️TVB云播|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -96,7 +96,7 @@
         },
         {
             "key": "csp_盒子",
-            "name": "🎦盒子┃秒播",
+            "name": "🅱️盒子秒播|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -106,7 +106,7 @@
         },
         {
             "key": "348影视",
-            "name": "🎦348┃秒播",
+            "name": "🅱️348秒播|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -116,7 +116,7 @@
         },
         {
             "key": "圣城影视",
-            "name": "🎦圣城┃2K",
+            "name": "🅱️圣城影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -126,7 +126,7 @@
         },
         {
             "key": "csp_蛋蛋",
-            "name": "🎦蛋蛋┃2K",
+            "name": "🅱️蛋蛋影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -136,7 +136,7 @@
         },
         {
             "key": "csp_xml_爱坤",
-            "name": "🎦爱坤（晚高峰卡）┃2K",
+            "name": "🅱️爱坤影视|T追剧",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -175,7 +175,7 @@
         },
         {
             "key": "csp_xml_新浪",
-            "name": "🎦新浪┃2K",
+            "name": "🅱️新浪影视|T追剧",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
             "searchable": 1,
@@ -214,7 +214,7 @@
         },
         {
             "key": "高清资源网",
-            "name": "🎦️高清┃2K",
+            "name": "🅱️高清资源|T追剧",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "searchable": 1,
@@ -248,7 +248,7 @@
         },
         {
             "key": "麻衣呀呼",
-            "name": "🎦麻衣呀呼",
+            "name": "🅱️麻衣呀呼|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -258,7 +258,7 @@
         },
         {
             "key": "HDmoli",
-            "name": "🎦魔力高清",
+            "name": "🅱️魔力高清|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -268,7 +268,7 @@
         },
         {
             "key": "策驰影院",
-            "name": "🎦策驰影院",
+            "name": "🅱️策驰影院|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -278,7 +278,7 @@
         },
         {
             "key": "Vidhub视频",
-            "name": "🎦视频库",
+            "name": "🅱️视频库|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -288,7 +288,7 @@
         },
         {
             "key": "两个BT",
-            "name": "🎦两个BT",
+            "name": "🅱️两个BT|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -298,7 +298,7 @@
         },
         {
             "key": "七年影视",
-            "name": "🎦七年影视",
+            "name": "🅱️七年影视|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -309,7 +309,7 @@
         },
         {
             "key": "lzi",
-            "name": "🎦量子资源",
+            "name": "🅱️量子资源|T追剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
