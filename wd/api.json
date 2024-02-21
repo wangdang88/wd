@@ -23,7 +23,7 @@
             "filterable": 0,
             "ext": "./js/Doubanrebo.js"
         },
-            {
+        {
       "key": "金鹰影视",
       "name": "🅱️金鹰影视|T追剧",
       "type": 1,
@@ -32,11 +32,20 @@
       "quickSearch": 1,
       "filterable": 0
     },
-            {
+    {
       "key": "快看影视",
       "name": "🅱️快看影视|T追剧",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "暴风影视",
+      "name": "🅱️暴风影视|T追剧",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
