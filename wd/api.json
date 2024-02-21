@@ -32,6 +32,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+      {
+      "key": "光速影视",
+      "name": "🅱️光速影视|T追剧",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "快看影视",
       "name": "🅱️快看影视|T追剧",
