@@ -24,27 +24,18 @@
             "ext": "./js/Doubanrebo.js"
         },
         {
-            "key": "低端影视",
-            "name": "🅱️低端影视┃影视",
+            "key": "开心",
+            "name": "🅱️开心影视|T追剧",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
-            "ext": "./js/ddys.js"
+            "filterable": 1,
+            "ext": "./json/开心HK影视.json"
         },
         {
-            "key": "乐乐",
-            "name": "🅱️乐乐┃影视",
-            "type": 1,
-            "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-                {
             "key": "黑狐",
-            "name": "🅱️黑狐┃影视",
+            "name": "🅱️黑狐影视|T追剧",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -129,7 +120,6 @@
       "name": "🅱️非凡影视|T追剧",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://ffzyplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -184,8 +174,17 @@
             "ext": "./json/777影视.json"
         },
         {
+            "key": "乐视",
+            "name": "🅱️乐视影视(翻墙)┃T追剧",
+            "type": 1,
+            "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "csp_厂长",
-            "name": "🅱️厂长影视|T追剧",
+            "name": "🅱️厂长影视|T追剧TV",
             "type": 3,
             "api": "csp_CsCz",
             "searchable": 1,
@@ -214,7 +213,7 @@
         },
         {
             "key": "csp_农民",
-            "name": "🅱️农民影视|T追剧",
+            "name": "🅱️农民影视|T追剧TV",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -234,7 +233,7 @@
         },
         {
             "key": "csp_xBPQ_奇优",
-            "name": "🅱️奇优影视|T追剧",
+            "name": "🅱️奇优影视|T追剧TV",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -254,7 +253,7 @@
         },
         {
             "key": "csp_JianPian",
-            "name": "🅱️荐片秒播|T追剧",
+            "name": "🅱️荐片秒播|T追剧TV",
             "type": 3,
             "api": "csp_JianPian",
             "playerType": 1,
