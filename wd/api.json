@@ -141,15 +141,6 @@
             "ext": "./js/新视觉影视.js"
         },
         {
-            "key": "COKEMV",
-            "name": "🅱️COKEMV影视|T追剧",
-            "type": 3,
-            "api": "./cainisiapi/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/cokemv.js"
-        },
-        {
       "key": "金鹰影视",
       "name": "🅱️金鹰影视|T追剧",
       "type": 1,
