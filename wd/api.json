@@ -5,11 +5,26 @@
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "lives": [
         {
-            "name": "live",
+            "name": "IPTV",
             "type": 0,
             "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV.m3u",
             "epg": "https://live.fanmingming.com/e.xml"
-        }
+        },
+        {
+            "name": "IPTV1",
+            "type": 0,
+            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV1.m3u",
+            "epg": "https://live.fanmingming.com/e.xml"
+        },
+        {
+				"name": "fanmingming",
+				"type": 0,
+				"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
+     }
     ],
     "warningText": "本接口完全开源免费，切勿付费购买！",
     "sites": [
