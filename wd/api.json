@@ -39,6 +39,62 @@
             "ext": "./js/Doubanrebo.js"
         },
         {
+            "key": "Jrsjs",
+            "name": "⚽ Jrs┃球迷",
+            "type": 3,
+            "api": "./cainisiapi/drpy2.min.js",
+            "ext": "./js/jrk.js",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "310js",
+            "name": "⚽310┃看球",
+            "type": 3,
+            "api": "./cainisiapi/drpy2.min.js",
+            "ext": "./js/310直播.js",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "虎牙直播js",
+            "name": "🐯虎牙┃直播",
+            "type": 3,
+            "api": "./cainisiapi/drpy2.min.js",
+            "ext": "./js/huyazhibo.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "playerType": "1",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "斗鱼js",
+            "name": "🐟斗鱼┃直播",
+            "type": 3,
+            "api": "./cainisiapi/drpy2.min.js",
+            "ext": "./js/斗鱼直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "playerType": "1",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "key": "快看影视",
             "name": "🅱️快看影视|T追剧",
             "type": 3,
