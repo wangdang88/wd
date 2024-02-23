@@ -38,7 +38,7 @@
             "filterable": 0,
             "ext": "./js/Doubanrebo.js"
         },
-	            {
+ {
             "key": "360影视",
             "name": "🅱️360影视|T追剧",
             "type": 3,
@@ -46,6 +46,15 @@
             "searchable": 1,
             "changeable": 1,
             "jar": "./jars/360影视.jar"
+        },
+        {
+            "key": "csp_戏曲",
+            "name": "🅱哔哩┃戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./json/哔哩哔哩戏曲.json"
         },
 	            {
             "key": "🏀看球",
@@ -858,6 +867,136 @@
             "filterable": 1,
             "ext": "./json/777影视.json"
         },
+        {
+            "key": "348电影网",
+            "name": "348┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/348电影网.js"
+        },
+        {
+            "key": "4K电影网",
+            "name": "4K┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/4K电影网.js"
+        },
+        {
+            "key": "69美剧",
+            "name": "69┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/69美剧[V2].js"
+        },
+        {
+            "key": "9u电影",
+            "name": "9u┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/9U电影.js"
+        },
+        {
+            "key": "纽约影院",
+            "name": "纽约┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/NY影院.js"
+        },
+        {
+            "key": "乐鱼影视",
+            "name": "乐鱼┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/乐鱼影视.js"
+        },
+        {
+            "key": "六度TV",
+            "name": "六度┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/六度TV.js"
+        },
+        {
+            "key": "凌云影视",
+            "name": "凌云┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/凌云影视.js"
+        },
+        {
+            "key": "北川影视",
+            "name": "北川┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/北川影视.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/去看吧.js"
+        },
+        {
+            "key": "咕噜[V2]",
+            "name": "咕噜┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/咕噜[V2].js"
+        },
+        {
+            "key": "宿命影视",
+            "name": "宿命┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/宿命影视.json",
+            "jar": "./jars/宿命影视.jar"
+        },
+        {
+            "key": "NikeTV",
+            "name": "NikeTV┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/NikeTV.json",
+            "jar": "./jars/宿命影视.jar"
+        },
+        {
+            "key": "APP影院",
+            "name": "APP┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/APP影院.json",
+            "jar": "./jars/宿命影视.jar"
+        },
+
         {
             "key": "乐视",
             "name": "🅱️乐视影视(翻墙)┃T追剧",
