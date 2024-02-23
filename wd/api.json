@@ -175,7 +175,7 @@
             "jar": "./jars/耐看.jar",
             "ext": "./json/nk.json"
         },
-        {
+        
             "key": "量子",
             "name": "🅱️量子影视|T追剧",
             "type": 1,
@@ -451,7 +451,7 @@
             "playerType": "1",
             "ext": "./json/qinian.json"
         },
-        {
+        
             "key": "lzi",
             "name": "🅱️量子资源|T追剧",
             "type": 3,
