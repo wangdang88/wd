@@ -38,6 +38,18 @@
             "filterable": 0,
             "ext": "./js/Doubanrebo.js"
         },
+	            {
+            "key": "🏀看球",
+            "name": "看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "jar": "./jars/豆瓣.jar"
+        },
         {
             "key": "Jrsjs",
             "name": "⚽ Jrs┃球迷",
