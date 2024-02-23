@@ -40,7 +40,7 @@
         },
 	            {
             "key": "🏀看球",
-            "name": "看球",
+            "name": "🏀看球",
             "type": 3,
             "api": "csp_Kanqiu",
             "searchable": 0,
