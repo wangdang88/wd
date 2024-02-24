@@ -30,7 +30,7 @@
     "sites": [
         {
             "key": "js_豆瓣热播",
-            "name": "🏮王荡:祝您新年快乐!龙年大吉!🏮",
+            "name": "🏮豆瓣热播:祝您新年快乐!龙年大吉!🏮",
             "type": 3,
             "api": "./api/Api.js",
             "searchable": 0,
@@ -40,7 +40,7 @@
         },
     {
       "key": "配置中心",
-      "name": "配置中心",
+      "name": "🅱️配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/mypg.php",
@@ -49,6 +49,18 @@
       "filterable": 0,
       "ext": "http://我不是.摸鱼儿.top/0221/lib/aip/push.php"
     },
+{
+    "key": "Meijumi",
+    "name": "🍃 | 美剧迷 | 💠",
+    "type": 3,
+    "api": "csp_Meijumi",
+    "searchable": 1,
+    "changeable": 1,
+      "jar": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/lib/pgspider.jar",
+    "ext": "./tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
+    "timeout": 600
+},
+{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1,"jar": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/lib/pgspider.jar", "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
         {
             "key": "csp_JianPian",
             "name": "🅱️荐片秒播|T追剧TV",
