@@ -47,7 +47,7 @@
             "changeable": 1,
             "jar": "./jars/360影视.jar"
         },
-	    {"key":"影视车®APP","name":"♨️影视车®APP","type":3,"api":"csp_LvDou","playerType":1,"ext":{"server":"https://4k.ysctv.cn/api.php/app/","mackey":"yingshicheQQQ4Zi|PHRBxdt7PppocRJ5"},"jar":"http://4k.weixine.link:5678/tvbox/lvdou.jar"},
+	    {"key":"影视车®APP","name":"♨️影视车®APP","type":3,"api":"csp_LvDou","playerType":1,"ext":{"server":"https://4k.ysctv.cn/api.php/app/","mackey":"yingshicheYYY4Zi|PHRBxdt7PppocRJ5"},"jar":"http://4k.weixine.link:5678/tvbox/lvdou.jar"},
         {
             "key": "csp_戏曲",
             "name": "🅱哔哩┃戏曲",
