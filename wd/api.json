@@ -57,7 +57,7 @@
     "searchable": 1,
     "changeable": 1,
       "jar": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/pgspider.jar",
-    "ext": "./tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
+    "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
     "timeout": 600
 },
 {"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1,"jar": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/pgspider.jar", "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
