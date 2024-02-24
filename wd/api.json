@@ -38,16 +38,46 @@
             "filterable": 0,
             "ext": "./js/Doubanrebo.js"
         },
- {
-            "key": "360影视",
-            "name": "🅱️360影视|T追剧",
+        {
+            "key": "csp_JianPian",
+            "name": "🅱️荐片秒播|T追剧TV",
             "type": 3,
-            "api": "csp_SP360",
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+        },
+        {
+            "key": "csp_xBPQ_奇优",
+            "name": "🅱️奇优影视|T追剧TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/奇优影视.json"
+        },
+        {
+            "key": "csp_农民",
+            "name": "🅱️农民影视|T追剧TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/农民影视.json"
+        },
+        {
+            "key": "csp_厂长",
+            "name": "🅱️厂长影视|T追剧TV",
+            "type": 3,
+            "api": "csp_CsCz",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jars/360影视.jar"
+            "ext": "https://bo.czys.me@@荷城茶秀"
         },
-	    {"key":"影视车®APP","name":"♨️影视车®APP","type":3,"api":"csp_LvDou","playerType":1,"ext":{"server":"https://4k.ysctv.cn/api.php/app/","mackey":"yingshicheYYY4Zi|PHRBxdt7PppocRJ5"},"jar":"http://4k.weixine.link:5678/tvbox/lvdou.jar"},
         {
             "key": "csp_戏曲",
             "name": "🅱哔哩┃戏曲",
@@ -1008,15 +1038,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_厂长",
-            "name": "🅱️厂长影视|T追剧TV",
-            "type": 3,
-            "api": "csp_CsCz",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://bo.czys.me@@荷城茶秀"
-        },
-        {
             "key": "csp_xBPQ_玖八",
             "name": "🅱️玖八影视|T追剧",
             "type": 3,
@@ -1037,16 +1058,6 @@
             "ext": "./json/七新影视.json"
         },
         {
-            "key": "csp_农民",
-            "name": "🅱️农民影视|T追剧TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
-        },
-        {
             "key": "csp_蛋蛋",
             "name": "🅱️蛋蛋影视|T追剧",
             "type": 3,
@@ -1057,16 +1068,6 @@
             "ext": "./json/蛋蛋影视.json"
         },
         {
-            "key": "csp_xBPQ_奇优",
-            "name": "🅱️奇优影视|T追剧TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/奇优影视.json"
-        },
-        {
             "key": "csp_黑狐",
             "name": "🅱️黑狐影视|T追剧",
             "type": 3,
@@ -1075,17 +1076,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/黑狐影视.json"
-        },
-        {
-            "key": "csp_JianPian",
-            "name": "🅱️荐片秒播|T追剧TV",
-            "type": 3,
-            "api": "csp_JianPian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
         }
     ],
     "parses": [
