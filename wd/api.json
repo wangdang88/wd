@@ -101,7 +101,7 @@
       "key": "drpy_js_人人影视",
       "name": "🌌宇宙影视官方源一",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./cainisi/drpy2.min.js",
       "ext": "https://download.kstore.space/download/4637/人人影视.js"
     },
 {
