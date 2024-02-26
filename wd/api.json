@@ -13,7 +13,7 @@
 	 {
             "name": "4小时自动更新",
             "type": 0,
-            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/tv/main/itvlist.txt",
             "epg": "https://live.fanmingming.com/e.xml"
         },
         {
