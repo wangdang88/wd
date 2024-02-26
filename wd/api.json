@@ -105,6 +105,23 @@
       "ext": "https://download.kstore.space/download/4637/人人影视.js"
     },
 {
+      "key": "宇宙",
+      "name": "👿宇宙4K自营",
+      "type": 3,
+      "api": "csp_LvDou",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"./pgspider.jar",
+      "ext": {
+        "server": "http://ds1.yuzhoukeji.top/api.php/app/",
+        "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
+        "danmu": true
+      }
+    },
+{
       "key": "drpy_js_360影视",
       "name": "官源┃360[js]",
       "type": 3,
