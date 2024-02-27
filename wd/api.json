@@ -55,6 +55,14 @@
       "filterable": 0,
       "ext": "http://我不是.摸鱼儿.top/0221/lib/aip/push.php"
     },
+	    		{
+			"key": "直播转点播",
+			"name": "🐼️┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/feimaolive.json"
+		},
         {
             "key": "玩偶哥哥",
             "name": "👽玩偶哥哥┃4K弹幕",
