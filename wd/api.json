@@ -55,13 +55,27 @@
       "filterable": 0,
       "ext": "http://我不是.摸鱼儿.top/0221/lib/aip/push.php"
     },
-	    		{
+		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
 			"type": 3,
 			"searchable": 0,
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
+		},
+		{
+			"key": "FirstAid",
+			"name": "🚑 急救知识 ",
+			"type": 3,
+			"api": "csp_FirstAid",
+                                                "jar": "./pgspider.jar",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
 		},
         {
             "key": "玩偶哥哥",
@@ -189,18 +203,6 @@
     "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
     "timeout": 600
 },
-{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1,"jar": "./pgspider.jar", "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
-        {
-            "key": "csp_JianPian",
-            "name": "🅱️荐片秒播|T追剧TV",
-            "type": 3,
-            "api": "csp_JianPian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
-        },
         {
             "key": "csp_JianPian",
             "name": "🅱️荐片秒播|T追剧TV",
@@ -260,35 +262,23 @@
             "jar": "./cainisispider.jar",
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
-    {
-      "key": "Yingtantv",
-      "name": "💯影探|4K纯净",
+{
+      "key": "影视车®APP",
+      "name": "♨️影视车®APP",
       "type": 3,
-      "api": "csp_Yingtantv2",
-      "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/myyt.php",
+      "api": "csp_Yscapp",
+       "jar": "./影视车影探.jar",
       "searchable": 1,
       "changeable": 0
-    },    
-    {
+    },
+{
       "key": "Yingtantv",
-      "name": "💯影探|4K纯净",
+      "name": "💯影探┃TV┃App",
       "type": 3,
       "api": "csp_Yingtantv2",
-      "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/myyt.php",
+       "jar": "./影视车影探.jar",
       "searchable": 1,
       "changeable": 0
-    },    
-      {
-      "key":"Yingtantv1",
-      "name":"💯影探|4K弹幕",
-      "type":3,
-      "api":"csp_Yingtantv",
-      "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/mypg.php",
-      "quickSearch":1, 
-      "changeable":1, 
-      "filterable":1,
-      "timeout":30, 
-      "ext":"$$$http://我不是.摸鱼儿.top/0221/lib/json/yt.json$$$1"
     },
     {
       "key": "风华弹幕",
@@ -498,15 +488,46 @@
       "filterable": 0,
       "ext": "https://ggys.me"
     },
-    {
-      "key": "Zhuiyitvi",
-      "name": "蓝光🐟追忆|纯净",
-      "type": 3,
-      "api": "csp_Zhuiyitv",
-      "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/myyt.php",
-      "searchable": 1,
-      "changeable": 0
-    },
+{"key":"Zhuiyitv","name":"追忆|App","type":3,"api":"csp_Zhuiyitv","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
+		{
+			"key": "新6V",
+			"name": "新6V|网盘",
+			"type": 3,
+			"api": "csp_Xb6v",
+			"searchable": 1,
+			"changeable": 1,
+                                                "jar": "./pgspider.jar",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+		},
+		{
+			"key": "河马",
+			"name": "河马┃App",
+			"type": 3,
+			"api": "csp_Hmys",
+                                                "jar": "./pgspider.jar",
+			"playerType": 1,
+			"ext": "https://m.jmzp.net.cn$$$null$$$1"
+		},
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+                                                "jar": "./pgspider.jar",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+		{
+			"key": "蝴蝶",
+			"name": "蝴蝶┃App",
+			"type": 3,
+			"api": "csp_Hudie",
+                                                "jar": "./pgspider.jar",
+			"searchable":0,
+			"playerType": 2,
+			"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
+		},
     {
       "key":"csp_AList",
       "name":"聚合🐟小雅|分享",
