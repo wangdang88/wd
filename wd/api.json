@@ -116,7 +116,7 @@
       "playerType": 1,
       "jar":"./pgspider.jar",
       "ext": {
-        "server": "http://ds1.yuzhoukeji.top/api.php/app/",
+        "server": "http://ds2.yuzhoukeji.top/api.php/app/",
         "mackey": "asd12NMbhWho2LsL|vZfPqkHE71Epi167",
         "danmu": true
       }
