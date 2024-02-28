@@ -136,7 +136,7 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"./pgspider.jar",
+      "jar":"./custom_spider.jar",
       "ext": {
         "server": "http://ds2.yuzhoukeji.top/api.php/app/",
         "mackey": "asd12NMbhWho2LsL|vZfPqkHE71Epi167",
