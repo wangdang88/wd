@@ -126,6 +126,7 @@
       "api": "./cainisi/drpy2.min.js",
       "ext": "https://download.kstore.space/download/4637/人人影视.js"
     },
+	    {"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1,"jar": "./pgspider.jar", "filterable":0, "timeout":60, "ext":"http://thze.cc/"},
 {
       "key": "宇宙",
       "name": "👿宇宙4K自营",
