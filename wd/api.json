@@ -11,7 +11,7 @@
             "epg": "https://live.fanmingming.com/e.xml"
         },
         {
-            "name": "4小时自动更新",
+            "name": "酒店IPV4源每天跟新",
             "type": 0,
             "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/tv/main/itvlist.txt",
             "epg": "https://live.fanmingming.com/e.xml"
@@ -135,9 +135,9 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"./custom_spider.jar",
+      "jar":"./pgspider.jar",
       "ext": {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app",
         "mackey": "toudongxidegou88|qunimagebishabi9",
         "danmu": true
       }
