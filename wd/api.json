@@ -44,17 +44,16 @@
             "filterable": 0,
             "ext": "./js/Doubanrebo.js"
         },
-    {
-      "key": "配置中心",
-      "name": "🅱️配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "http://我不是.摸鱼儿.top/0221/lib/jar/mypg.php",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.top/0221/lib/aip/push.php"
-    },
+		{
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+                                                "jar": "./pgspider.jar",
+			"changeable": 0,
+			"ext":"./lib/tokenm.json"
+		},
 		{
 			"key": "直播转点播",
 			"name": "🐼️┃电视┃直播",
