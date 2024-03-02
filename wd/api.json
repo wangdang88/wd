@@ -200,16 +200,6 @@
             "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
         },
         {
-            "key": "csp_xBPQ_奇优",
-            "name": "🅱️奇优影视|T追剧TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/奇优影视.json"
-        },
-        {
             "key": "csp_农民",
             "name": "🅱️农民影视|T追剧TV",
             "type": 3,
