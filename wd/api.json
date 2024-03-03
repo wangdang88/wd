@@ -127,7 +127,10 @@
       "jar": "./放牛0229.jar", 
       "searchable": 1,
       "changeable": 0
-    },{
+    },
+{ "key": "xyyy","name": "🇹┃听音乐┃小姨", "type": 4,"api": "https://catbox.n13.club/wy.php"},
+{"key": "yinyue","name": "线路|音乐","type": 4,"api": "https://catbox.n13.club/yyy.php"},
+{
       "key": "Fangniu4k",
       "name": "🇨🇳放牛┃TV┃App",
       "type": 3,
@@ -135,46 +138,6 @@
       "jar": "./放牛0229.jar", 
       "searchable": 1,
       "changeable": 0
-    },
-{
-      "key": "drpy_js_360影视",
-      "name": "官源┃360[js]",
-      "type": 3,
-      "playerType": 2,
-      "api": "./cainisiapi/drpy2.min.js",
-      "ext": "./js/360.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "官源┃芒果[js]",
-      "type": 3,
-      "playerType": 2,
-      "api": "./cainisiapi/drpy2.min.js",
-      "ext": "./js/mgtv.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "官源┃奇艺[js]",
-      "type": 3,
-      "playerType": 2,
-      "api": "./cainisiapi/drpy2.min.js",
-      "ext": "./js/iqiyi.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源┃优酷[js]",
-      "type": 3,
-      "playerType": 2,
-      "api": "./cainisiapi/drpy2.min.js",
-      "ext": "./js/youku.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源┃腾讯[js]",
-      "type": 3,
-      "playerType": 2,
-      "api": "./cainisiapi/drpy2.min.js",
-      "ext": "./js/tengxun.js"
     },
 {
     "key": "Meijumi",
@@ -187,7 +150,20 @@
     "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
     "timeout": 600
 },
+{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
+{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
 
+		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
         {
             "key": "csp_JianPian",
             "name": "🅱️荐片秒播|T追剧TV",
@@ -217,6 +193,68 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://bo.czys.me@@荷城茶秀"
+        },
+        {
+            "key": "赞赞",
+            "name": "🐰春盈┃赞赞",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_AppYsV2",
+            "ext": "http://111.230.51.151:2323/api.php/app/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+{"key":"卧龙资源","name":"🐰春盈┃卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": [
+        "大陆剧","连续剧","内地剧","国产剧","电影片","电影","香港剧","欧美剧", "韩国剧","韩剧", "日本剧", "日剧", "泰国剧", "马泰剧", "新马剧","海外剧","动作片", "爱情片", "喜剧片", "科幻片","灾难片","悬疑片","恐怖片","剧情片","战争片", "犯罪片","奇幻片", "动作片","动漫","动画片", "中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺", "港台综艺", "欧美综艺","台湾剧","体育赛事","短剧"
+      ]},
+        {
+            "key": "双黄",
+            "name": "🐰春盈┃双黄",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+                "请求头": "手机#Referer$https://www.dandanju.cc/",
+                "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+                "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
+                "搜索模式": "1",
+                "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+                "搜索数组": "<li class=\"active clearfix&&</li"
+            }
+        },
+        {
+            "key": "热播库",
+            "name": "🐰春盈┃热播",
+            "type": 3,
+            "changeable": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {
+                "主页url": "https://rebozj.pro",
+                "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "副标题": "class=\"pic-text text-right\"><b>&&</span>",
+                "搜索模式": "1",
+                "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+                "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
+                "线路数组": "<h4 class=\"title&&/h4>",
+                "线路标题": ">&&<",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "影片类型": "类型：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "display: none;\">&&</span>",
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
+                "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
+                "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
+            }
         },
         {
             "key": "csp_戏曲",
@@ -1553,6 +1591,32 @@
         }
     ],
     "parses": [
+ {
+      "name": "🍭春盈77",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "flag": [
+        "qq",
+        "腾讯",
+        "qiyi",
+        "爱奇艺",
+        "奇艺",
+        "youku",
+        "优",
+        "mgtv",
+        "芒果",
+        "letv",
+        "leshi",
+        "LS",
+        "乐视",
+        "pptv",
+        "PPTV",
+        "sohu",
+        "bilibili",
+        "哔哩哔哩",
+        "哔哩"
+      ]
+    }, 
    {
       "name": "春盈解析",
       "type": 1,
