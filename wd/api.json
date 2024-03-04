@@ -124,18 +124,27 @@
       "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
       "api": "csp_Yinyuetai",
-      "jar": "./放牛0229.jar", 
+      "jar": "./放牛0304.jar", 
       "searchable": 1,
       "changeable": 0
     },
 { "key": "xyyy","name": "🇹┃听音乐┃小姨", "type": 4,"api": "https://catbox.n13.club/wy.php"},
 {"key": "yinyue","name": "线路|音乐","type": 4,"api": "https://catbox.n13.club/yyy.php"},
 {
+      "key": "Iktv",
+      "name": "🛰KTV┃音乐┃MV",
+      "type": 3,
+      "api": "csp_Iktv",
+      "jar": "./放牛0304.jar", 
+      "searchable": 1,
+      "changeable": 0
+    },
+{
       "key": "Fangniu4k",
       "name": "🇨🇳放牛┃TV┃App",
       "type": 3,
       "api": "csp_Fangniu4k",
-      "jar": "./放牛0229.jar", 
+      "jar": "./放牛0304.jar", 
       "searchable": 1,
       "changeable": 0
     },
