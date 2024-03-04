@@ -293,7 +293,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            //"playerType": "2",
+            "playerType": "2",
             "ext": {
                 "主页url": "http://www.baipiaoys.cc/",
                 "副标题": "pic-text text-right\">&&</b>",
