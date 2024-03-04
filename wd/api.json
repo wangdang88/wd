@@ -284,6 +284,30 @@
             "jar": "./cainisispider.jar",
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
         },
+	    {
+            "key": "baipiaoys",
+            "name": "🏡白嫖┃BPQ",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            //"playerType": "2",
+            "ext": {
+                "主页url": "http://www.baipiaoys.cc/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "短剧$4#电影$1#电视剧$2#动漫$3#综艺$5",
+                "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+            }
+        },
 {
       "key": "影视车®APP",
       "name": "♨️影视车®APP",
