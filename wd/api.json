@@ -62,6 +62,23 @@
 			"api": "./lib/live2vod.js",
 			"ext": "./lib/feimaolive.json"
 		},
+	     {
+      "key": "宇宙",
+      "name": "💯宇宙【纯净】4K-HDR",
+      "type": 3,
+      "api": "csp_LvDou",
+      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "ext":  {
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "mackey": "toudongxidegou88|qunimagebisha857",
+        "danmu": true
+      }
+    },
 		{
 			"key": "FirstAid",
 			"name": "🚑 急救知识 ",
