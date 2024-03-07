@@ -5,6 +5,10 @@
             "name": "自建"
         },
 {
+            "url": "https://download.kstore.space/download/7699/wd/api.json",
+            "name": "自建备用"
+        },
+{
             "url": "http://我不是.摸鱼儿.top",
             "name": "摸鱼儿"
         },
