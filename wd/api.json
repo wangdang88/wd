@@ -287,7 +287,7 @@
       "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
       "api": "csp_Yinyuetai",
-      "jar": "./放牛0304.jar", 
+      "jar": "./放牛0307.jar", 
       "searchable": 1,
       "changeable": 0
     },
@@ -298,7 +298,7 @@
       "name": "🛰KTV┃音乐┃MV",
       "type": 3,
       "api": "csp_Iktv",
-      "jar": "./放牛0304.jar", 
+      "jar": "./放牛0307.jar", 
       "searchable": 1,
       "changeable": 0
     },
@@ -307,7 +307,7 @@
       "name": "🇨🇳放牛┃TV┃App",
       "type": 3,
       "api": "csp_Fangniu4k",
-      "jar": "./放牛0304.jar", 
+      "jar": "./放牛0307.jar", 
       "searchable": 1,
       "changeable": 0
     },
