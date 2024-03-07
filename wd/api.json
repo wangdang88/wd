@@ -119,7 +119,6 @@
         },
 {"key":"Wobg","name":"🅱️玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1,"jar": "./pgspider.jar", "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "jar": "./pgspider.jar", "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1"},
-	    {"key": "csp_appys_影盒","name": "❤影探主接口|4K","type": 3,"api": "csp_AppYsV2","jar":"http://www.lyyytv.cn/yt/yt.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms345.lyyytv.cn/api.php/app/"},
     {
       "key": "moyu影探",
       "name": "💯影探【纯净】4K-HDR",
