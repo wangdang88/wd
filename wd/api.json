@@ -80,7 +80,8 @@
             "key": "baipiao",
             "name": "白嫖",
             "type": 3,
-            "api": "./lib/bpys_open.js"
+            "api": "./lib/bpys_open.js",
+            "playerType": 1
         },
         {
             "key": "csp_JianPian",
