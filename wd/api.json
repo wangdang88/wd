@@ -76,6 +76,42 @@
 				"ratio": 3.8
 			}
 		},
+{
+            "key": "baipiao",
+            "name": "白嫖",
+            "type": 3,
+            "api": "./lib/bpys_open.js"
+        },
+        {
+            "key": "csp_JianPian",
+            "name": "🅱️荐片秒播|T追剧TV",
+            "type": 3,
+            "api": "csp_JianPian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+        },
+        {
+            "key": "csp_农民",
+            "name": "🅱️农民影视|T追剧TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/农民影视.json"
+        },
+        {
+            "key": "csp_厂长",
+            "name": "🅱️厂长影视|T追剧TV",
+            "type": 3,
+            "api": "csp_CsCz",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://bo.czys.me@@荷城茶秀"
+        },
         {
             "key": "玩偶哥哥",
             "name": "👽玩偶哥哥┃4K弹幕",
@@ -296,36 +332,6 @@
 				"ratio": 1.1
 			}
 		},
-        {
-            "key": "csp_JianPian",
-            "name": "🅱️荐片秒播|T追剧TV",
-            "type": 3,
-            "api": "csp_JianPian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
-        },
-        {
-            "key": "csp_农民",
-            "name": "🅱️农民影视|T追剧TV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/农民影视.json"
-        },
-        {
-            "key": "csp_厂长",
-            "name": "🅱️厂长影视|T追剧TV",
-            "type": 3,
-            "api": "csp_CsCz",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://bo.czys.me@@荷城茶秀"
-        },
         {
             "key": "赞赞",
             "name": "🐰春盈┃赞赞",
