@@ -76,7 +76,7 @@
 				"ratio": 3.8
 			}
 		},
-	    {"key":"360kan","name":"360影视","type":3,"searchable":1,"changeable":1,"api":"./lib/360kan_open.js"},
+{"key":"360kan","name":"360影视","type":3,"searchable":1,"changeable":1,"api":"./lib/360kan_open.js"},
 {
             "key": "baipiao",
             "name": "白嫖影院（需翻墙）",
@@ -113,6 +113,13 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://bo.czys.me@@荷城茶秀"
+        },
+   {
+            "key": "nangua",
+            "name": "🅱️南瓜影视|T追剧TV",
+            "type": 3,
+            "api": "./lib/nangua_open.js",
+            "playerType": 1
         },
     {
       "key": "虎牙资源",
@@ -525,7 +532,7 @@
 			"searchable": 1,
 			"ext": "https://www.bdys03.com/$$$null$$$1"
 		},
-	    {"key":"bdys","name":"哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./lib/bdys_open.js"},
+{"key":"bdys","name":"哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./lib/bdys_open.js"},
 		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","jar": "./pgspider.jar","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
                                 {"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy","jar":"./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
