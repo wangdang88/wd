@@ -76,6 +76,7 @@
 				"ratio": 3.8
 			}
 		},
+	    {"key":"360kan","name":"360影视","type":3,"searchable":1,"changeable":1,"api":"./lib/360kan_open.js"},
 {
             "key": "baipiao",
             "name": "白嫖影院（需翻墙）",
