@@ -1,6 +1,6 @@
 import { Crypto, load, _ } from './lib/cat.js';
 
-let siteUrl ='https://www.360kan.com';
+let siteUrl ='http://www.360kan.com';
 let siteKey = '';
 let siteType = 0;
 let headers = {
@@ -56,13 +56,13 @@ async function homeVod() {
 async function category(tid, pg, filter, ext) {
     if (!pg) pg = 1;
     if (pg <= 0) pg = 1;
-    let url = `https://api.web.360kan.com/v1/filter/list?catid=${tid}&rank=rankhot&cat=${ext['cat']||''}&year=${ext['year']||''}&area=${ext['area']||''}&act=&size=35`
+    let url = `http://api.web.360kan.com/v1/filter/list?catid=${tid}&rank=rankhot&cat=${ext['cat']||''}&year=${ext['year']||''}&area=${ext['area']||''}&act=&size=35`
     let res = JSON.parse(await request(url)).data  
     let videos = _.map(res.movies, n => {
         return {
             vod_id: tid + '_' + n.id,
             vod_name: n.title,
-            vod_pic: 'https:' + n.cdncover,
+            vod_pic: 'http:' + n.cdncover,
             vod_remarks: n.upinfo
         }
     })
@@ -78,7 +78,7 @@ async function detail(id) {
     try {
         let tid = id.split('_')[0];
         let pid = id.split('_')[1];
-        let url = `https://api.web.360kan.com/v1/detail?cat=${tid}&id=${pid}&site=`
+        let url = `http://api.web.360kan.com/v1/detail?cat=${tid}&id=${pid}&site=`
         let res = JSON.parse(await request(url)).data;
         const video = {
             vod_play_from: res.playlink_sites.join('$$$'),
@@ -117,7 +117,7 @@ async function detail(id) {
 }
 
 async function search(wd, quick, pg) {
-    let url = `https://api.so.360kan.com/index?force_v=1&kw=${encodeURIComponent(wd)}&v_ap=1&tab=all`;
+    let url = `http://api.so.360kan.com/index?force_v=1&kw=${encodeURIComponent(wd)}&v_ap=1&tab=all`;
     const res = JSON.parse(await request(url)).data;
 
     let videos = _.map(res.longData.rows, (n) => {
@@ -140,7 +140,7 @@ async function play(flag, id, flags) {
         url: playUrl,
         header: {
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
-            "Origin": 'https://jx.xmflv.com',
+            "Origin": 'http://jx.xmflv.com',
         }
     });
 }
