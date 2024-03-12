@@ -76,6 +76,21 @@
 				"ratio": 3.8
 			}
 		},
+{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
+		{
+			"key": "新6V",
+			"name": "新6V|网盘",
+			"type": 3,
+			"api": "csp_Xb6v",
+			"searchable": 1,
+			"changeable": 1,
+                                                "jar": "./pgspider.jar",
+			"timeout": 60,
+			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+		},
+		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","jar": "./pgspider.jar","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","jar": "./pgspider.jar","changeable":1, "timeout":60},
+		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","jar": "./pgspider.jar","changeable":1, "timeout":60},
 {"key":"360kan","name":"360影视","type":3,"searchable":1,"changeable":1,"api":"./lib/360kan_open.js"},
 {
             "key": "baipiao",
@@ -536,17 +551,6 @@
     },
 
 {"key":"Zhuiyitv","name":"追忆|App","type":3,"api":"csp_Zhuiyitv","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
-		{
-			"key": "新6V",
-			"name": "新6V|网盘",
-			"type": 3,
-			"api": "csp_Xb6v",
-			"searchable": 1,
-			"changeable": 1,
-                                                "jar": "./pgspider.jar",
-			"timeout": 60,
-			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-		},
 		{
 			"key": "河马",
 			"name": "河马┃App",
