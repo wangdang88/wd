@@ -76,7 +76,21 @@
 				"ratio": 3.8
 			}
 		},
+{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1"},
 {"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
+		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
+		{
+			"key": "Bdys_spider",
+			"name": "哔滴┃磁力",
+			"api": "csp_Bdys01",
+                                                "jar": "./pgspider.jar",
+			"type": 3,
+			"filterable": 1,
+			"searchable":0,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "https://www.bdys10.com/$$$null$$$1"
+		},
 		{
 			"key": "新6V",
 			"name": "新6V|网盘",
@@ -434,17 +448,6 @@
       "searchable": 0,
       "changeable": 0
     },
-{
-    "key": "Meijumi",
-    "name": "🍃 | 美剧迷 | 💠",
-    "type": 3,
-    "api": "csp_Meijumi",
-    "searchable": 1,
-    "changeable": 1,
-      "jar": "./pgspider.jar",
-    "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz$$$null$$$1",
-    "timeout": 600
-},
 {"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
 {"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt",
 			"style": {
@@ -579,24 +582,12 @@
 			"playerType": 2,
 			"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
 		},
-		{
-			"key": "Bdys_spider",
-			"name": "哔滴┃直连",
-			"api": "csp_Bdys01",
-			"type": 3,
-			"filterable": 1,
-			"searchable":0,
-			"quickSearch": 1,
-                                                "jar": "./pgspider.jar",
-			"searchable": 1,
-			"ext": "https://www.bdys03.com/$$$null$$$1"
-		},
 {"key":"bdys","name":"哔滴哔滴","type":3,"searchable":0,"changeable":0,"api":"./lib/bdys_open.js"},
 		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","jar": "./pgspider.jar","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
                                 {"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy","jar":"./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "jar": "./pgspider.jar","changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$null$$$1"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "jar": "./pgspider.jar","changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
+		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
 		{"key":"PanSearch","name":"PanSearch|网盘","type":3,"api":"csp_PanSearch","quickSearch":1,"jar": "./pgspider.jar", "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json"},
 		{"key":"88Pan","name":"88网盘|网盘","type":3,"api":"csp_EightEight","jar": "./pgspider.jar","timeout":30, "ext":"./lib/tokenm.json$$$https://662688.xyz"},
 		{"key":"盘搜","name":"盘搜|网盘","type":3,"api":"csp_PanSou","timeout":30, "jar": "./pgspider.jar","ext":"./lib/tokenm.json"},
