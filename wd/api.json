@@ -76,7 +76,7 @@
 				"ratio": 3.8
 			}
 		},
-{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1"},
+{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/lib/pushshare.txt$$$db$$$1"},
 {"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
 		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
 		{
@@ -286,129 +286,6 @@
         },
 {"key":"Wobg","name":"🅱️玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1,"jar": "./pgspider.jar", "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "jar": "./pgspider.jar", "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$null$$$1"},
-    {
-      "key": "土豆弹幕",
-      "name": "💯土豆【弹幕】4K-HDR",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TV/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
-        "site": "https://aliz.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "csp_阿里苏苏",
-      "name": "💯苏苏【纯净】4K-HDR",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/susu.php"
-    },
-    {
-      "key": "wogog",
-      "name": "💯梦浮生【纯净】4K-HDR",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/wog.php"
-    },
-    {
-      "key": "womog",
-      "name": "💯锦书缘【纯净】4K-HDR",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/wom.php"
-    },
-    {
-      "key": "woxog",
-      "name": "💯雪落尘【纯净】4K-HDR",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/api/luoxue.php"
-    },
-    {
-      "key": "团长资源",
-      "name": "💯团长【弹幕】4K-HDR",
-      "type": 3,
-      "api": "csp_TZFile",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$null$$$1"
-    },
-    {
-      "key": "南瓜弹幕版",
-      "name": "蓝光🐟南瓜|弹幕",
-      "type": 3,
-      "api": "csp_Nangua",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "校长影视",
-      "name": "蓝光🐟校长|弹幕",
-      "type": 3,
-      "api": "csp_XiaoZhang",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mypg.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/0304/aip/push.php$$$null$$$1"
-    },
-    {
-      "key": "快手直播",
-      "name": "🐟快手直播",
-      "type": 3,
-      "api": "csp_KsLive",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
-    },
-    {
-      "key": "JustLive",
-      "name": "🐟聚合直播",
-      "type": 3,
-      "api": "csp_JustLive",
-      "jar": "http://我不是.摸鱼儿.top/0304/jar/mybt.php",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
-    },
-
     {
       "key": "Yinyuetai",
       "name": "🛰音悦台┃音乐┃MV",
