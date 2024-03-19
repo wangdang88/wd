@@ -17,6 +17,22 @@
             "name": "PG本地包"
         },
 {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz",
+            "name": "王小二放牛娃"
+        },
+{
+            "url": "https://tvbox.王二小放牛娃.xyz",
+            "name": "王小二放牛娃1"
+        },
+{
+            "url": "http://mtw.so/6oBvBN",
+            "name": "王小二放牛娃3"
+        },
+{
+            "url": "https://tvbox.王二小放牛娃.xyz/index.php",
+            "name": "王小二放牛娃2"
+        },
+{
             "url": "http://我不是.摸鱼儿.top",
             "name": "摸鱼儿"
         },
