@@ -142,13 +142,6 @@
             "changeable": 1,
             "ext": "https://bo.czys.me@@荷城茶秀"
         },
-   {
-            "key": "nangua",
-            "name": "🅱️南瓜影视|T追剧TV",
-            "type": 3,
-            "api": "./lib/nangua_open.js",
-            "playerType": 1
-        },
             {
                 "key": "17kan",
                 "name": "🅱️一起看影视|T追剧TV",
@@ -194,6 +187,361 @@
       "playerType": 2,
       "api": "./cainisiapi/drpy2.min.js",
       "ext": "./js/tengxun.js"
+    },
+    {
+      "key": "玩偶",
+      "name": "🥷玩偶┃哥哥┃阿里",
+      "type": 3,
+      "api": "csp_Wogg",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "賤賤",
+      "name": "📓賤片┃盒子┃P2P",
+      "type": 3,
+      "api": "csp_WexJianpian",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃瓜瓜┃TV┃App",
+      "type": 3,
+      "api": "csp_WexNgys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "🍎红富士┃TV┃App",
+      "type": 3,
+      "api": "csp_Wexxpgtv",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Tiantianys",
+      "name": "🌤天天┃影视┃App",
+      "type": 3,
+      "api": "csp_WexTiantianys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "mingriyingshi",
+      "name": "☀️明日┃影视┃App",
+      "type": 3,
+      "api": "csp_WexMingriys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Fujutv",
+      "name": "🍩腐剧┃TV┃App",
+      "type": 3,
+      "api": "csp_WexFujutv",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Kanmeiju",
+      "name": "💯美剧┃TV┃App",
+      "type": 3,
+      "api": "csp_WexKanmeiju",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Fangniu4k",
+      "name": "👎放牛┃TV┃App",
+      "type": 3,
+      "api": "csp_WexFangniu4k",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Kuyun77",
+      "name": "7️⃣小七┃影视┃App",
+      "type": 3,
+      "api": "csp_Kuyun77",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Shijuedy",
+      "name": "👓看看┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexShijuedy",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🎅‍伯伯┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexNmys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexbaipiao",
+      "name": "💢白嫖┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexbaipiao",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "哔嘀影视",
+      "name": "🚨喇叭┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexBDys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Diduanys",
+      "name": "🙈深渊┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexDiduanys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "F4kvm",
+      "name": "🦑纯享┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Freeok",
+      "name": "👌一般┃影视┃直连",
+      "type": 3,
+      "api": "csp_WexFreeok",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "TVBYUNBO",
+      "name": "🏙️香港┃云播┃直连",
+      "type": 3,
+      "api": "csp_Tvbyunv2",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Lingsanys",
+      "name": "3️⃣第三┃影视┃直连",
+      "type": 3,
+      "api": "csp_Lingsanys",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexvipduanju",
+      "name": "🌸短劇┃VIP┃直连",
+      "type": 3,
+      "api": "csp_Wexvipduanju",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanju001",
+      "name": "🌸短劇┃看01┃直连",
+      "type": 3,
+      "api": "csp_Wexduanju001",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "MP4电影",
+      "name": "🛩️MP4┃电影┃P2P",
+      "type": 3,
+      "api": "csp_WexMp4dy",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "新6V",
+      "name": "🛩️新6V┃电影┃P2P",
+      "type": 3,
+      "api": "csp_WexXb6v",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Twobt",
+      "name": "🛩️Twobt┃电影┃P2P",
+      "type": 3,
+      "api": "csp_WexTwobt",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Pandalivetv",
+      "name": "😍韩国┃美女┃直播",
+      "type": 3,
+      "api": "csp_WexPandalivetv",
+            "jar": "./wex.jar",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Yinyuetai",
+      "name": "🎸音悦台┃音乐┃MV",
+      "type": 3,
+      "api": "csp_WexYinyuetai",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Iktv",
+      "name": "🎤KTV┃音乐┃MV",
+      "type": 3,
+      "api": "csp_WexIktv",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "看球",
+      "name": "🌐看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "櫻花",
+      "name": "🤡櫻花┃动漫",
+      "type": 3,
+      "api": "csp_WexYing",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "巴士",
+      "name": "🤡巴士┃动漫",
+      "type": 3,
+      "api": "csp_WexDm84",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "異界",
+      "name": "🤡異界┃动漫",
+      "type": 3,
+      "api": "csp_WexYsj",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "七夜",
+      "name": "🎠七夜┃阿里┃搜",
+      "type": 3,
+      "api": "csp_Dovx",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "易搜",
+      "name": "🎠易搜┃阿里┃搜",
+      "type": 3,
+      "api": "csp_YiSo",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "雲搜",
+      "name": "🎠雲搜┃阿里┃搜",
+      "type": 3,
+      "api": "csp_UpYun",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜",
+      "name": "🎠盤搜┃阿里┃搜",
+      "type": 3,
+      "api": "csp_PanSou",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "紙條搜",
+      "name": "🎠紙條搜┃阿里┃搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜索",
+      "name": "🎠盤搜索┃阿里┃搜",
+      "type": 3,
+      "api": "csp_PanSearch",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "找資源",
+      "name": "🎠找資源┃阿里┃搜",
+      "type": 3,
+      "api": "csp_Zhaozy",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一$$$test2$$$test2"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+            "jar": "./wex.jar",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "虎牙资源",
@@ -1606,6 +1954,16 @@
         }
     ],
     "parses": [
+    {
+      "name": "王",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="
+    },
+    {
+      "name": "小",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
+    },
    {
       "name": "春盈解析",
       "type": 1,
