@@ -13,7 +13,7 @@
             "name": "自建本地包"
         },
 {
-            "url": "http://127.0.0.1:9978/file/wd/api.json",
+            "url": "http://127.0.0.1:9978/file/pg/api.json",
             "name": "PG本地包"
         },
 {
