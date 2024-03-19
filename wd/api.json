@@ -533,15 +533,7 @@
       "changeable": 0,
       "ext": "影視天下第一$$$test2$$$test2"
     },
-    {
-      "key": "push_agent",
-      "name": "🏮以上为放牛娃资源🏮",
-      "type": 3,
-      "api": "csp_Push",
-            "jar": "./wex.jar",
-      "searchable": 1,
-      "changeable": 0
-    },		
+{"key": "push_agent","name": "🏮以上为放牛娃资源🏮","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},	
 {"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt",
 			"style": {
 				"type": "list",
