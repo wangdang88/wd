@@ -878,6 +878,11 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
+{"key":"csp_lwdy","name":"老王电影[影视]_XBPQ","type":3,"api":"csp_XBPQ","jar": "./spider.jar","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
+{
+            "key": "555yingshi","name":"🔴555影视","type":3,"api":"csp_XBPQ","jar": "./spider.jar",
+            "ext": {"分类":"电影$1#电视剧$2#福利$124#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
+        },
         {
             "key": "csp_盒子",
             "name": "盒子秒播|XBPQ",
@@ -1877,6 +1882,12 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+{"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
+                        "style": {
+                                "type": "rect",
+                                "ratio": 1.5
+                        }
     },
         {
             "key": "乐视",
