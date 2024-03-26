@@ -2004,16 +2004,7 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-        {
-            "key": "乐视",
-            "name": "乐视影视(翻墙)┃采集",
-            "type": 1,
-            "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        }
+    }
     ],
   "doh": [
     {
