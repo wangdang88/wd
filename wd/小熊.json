@@ -1,0 +1,24 @@
+{
+  "sites": [
+    { "name": "爱坤", "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/" },
+    { "name": "光速", "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/" },
+    { "name": "量子", "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/" },
+    { "name": "红牛", "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/" },
+    { "name": "飞速", "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/" },
+    { "name": "天空", "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/" },
+    { "name": "快车", "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/" },
+    { "name": "非凡", "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/" }
+  ],
+  "lives": [
+    {
+      "group": "CCTV",
+      "channels": [
+        { "name": "CCTV1", "urls": ["http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8"] },
+        { "name": "CCTV2", "urls": ["http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8"] },
+        { "name": "CCTV3", "urls": ["http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8"] },
+        { "name": "CCTV4", "urls": ["http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8"] },
+        { "name": "CCTV10", "urls": ["https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8"] }
+      ]
+    }
+  ]
+}
