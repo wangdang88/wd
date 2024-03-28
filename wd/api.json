@@ -107,7 +107,7 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
-		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁力","type":3,"api":"./lib/drpy2.min.js","jar": "./pgspider.jar","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁力","type":3,"api":"./cainisiapi/drpy2.min.js","jar": "./pgspider.jar","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁力","type":3,"api":"csp_Xunlei8","jar": "./pgspider.jar","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁力","type":3,"api":"csp_SeedHub","jar": "./pgspider.jar","changeable":1, "timeout":60},
         {
