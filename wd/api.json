@@ -1011,6 +1011,30 @@
         "jar": "./spider.jar"
     },
 {
+        "key": "kekys",
+        "name": "可可影视┃XBPQ(自写)",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "csp_XBPQ",
+        "ext": {
+            "主页url": "https://www.keke10.com:51111/",
+            "副标题": "pic-text text-right\">&&</b>",
+            "搜索模式": "1",
+            "搜索url": "https://www.keke10.com:51111/search?os=pc&k={wd}",
+            "图片": "data-original=\"&&\"",
+            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+            "导演": "导演：&&</div>",
+            "主演": "主演：&&</div>",
+            "分类": "电影$1#连续剧$2#动漫$3#综艺记录$4#短剧$6",
+            "分类url": "https://www.keke10.com:51111/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html;;ak"
+        },
+        "jar": "./spider.jar"
+    },
+{
         "key": "nmys",
         "name": "农民影视┃XBPQ(自写)",
         "type": 3,
