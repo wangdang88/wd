@@ -1,3 +1,5 @@
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./pgspider.jar",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
@@ -112,7 +114,35 @@
 		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1,"jar": "./pgspider.jar", "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
                                 {"key":"Xinshijue","name":"Xinshijue|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json"},
 {"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/lib/pushshare.txt$$$db$$$1"},
-{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},		{
+{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","jar": "./pgspider.jar","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
+{"key":"Clg","name":"磁力狗|磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+{
+    "key": "BtSearch",
+    "name": "🍃 | BT搜索 | 💠",
+    "type": 3,
+    "api": "csp_BtSearch",
+    "searchable": 1,
+    "changeable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+},
+{
+    "key": "BtSow",
+    "name": "🍃 | BTSow | 💠",
+    "type": 3,
+    "api": "csp_BtSow",
+    "searchable": 1,
+    "changeable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+},
+
+		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
 			"api": "csp_Bdys01",
@@ -155,7 +185,7 @@
             "name": "🅱️农民影视|T追剧TV",
             "type": 3,
             "api": "csp_XBPQ",
-               "jar": "./spider.jar",
+               "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -177,6 +207,7 @@
                 "type": 3,
                 "api": "./lib/yqktv_open.js"
             },
+		{ "key": "YQKan", "name": "一起看PG", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
 {
       "key": "drpy_js_360影视",
       "name": "官解┃360[js]",
@@ -992,7 +1023,7 @@
             "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
             "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
         },
-        "jar": "./spider.jar"
+        "jar": "./XBPQ.jar"
     },
 {
         "key": "777ys",
@@ -1016,7 +1047,7 @@
             "分类": "电影$dianying#电视剧$dianshijiu#动漫$dongman#少儿$shaoer#综艺$zongyi",
             "分类url": "https://www.777ys1.com/show/{cateId}/area/{area}/by/{by}/class/{class}/letter/{letter}/page/{catePg}/year/{year}.html"
         },
-        "jar": "./spider.jar"
+        "jar": "./XBPQ.jar"
     },
 {
         "key": "kekys",
@@ -1026,7 +1057,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "api": "csp_XBPQ",
+        "jar": "./XBPQ.jar",
         "ext": {
             "主页url": "https://www.keke10.com:51111/",
             "副标题": "pic-text text-right\">&&</b>",
@@ -1064,7 +1095,7 @@
             "分类": "电影$1#电视剧$2#动漫$4#动画片$29#综艺$3#短剧$31#最新国产剧$13",
             "分类url": "https://www.gymboreejn.com/vodtype/{cateId}/page/{catePg}-{area}--{class}--{letter}------{year}.html"
         },
-        "jar": "./spider.jar"
+        "jar": "./XBPQ.jar"
     },
         {
             "key": "热播库",
@@ -1073,6 +1104,7 @@
             "changeable": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
             "api": "csp_XBPQ",
+        "jar": "./XBPQ.jar",
             "playerType": "1",
             "ext": {
                 "主页url": "https://rebozj.pro",
@@ -1097,9 +1129,9 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
-{"key":"csp_lwdy","name":"老王电影[影视]_XBPQ","type":3,"api":"csp_XBPQ","jar": "./spider.jar","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
+{"key":"csp_lwdy","name":"老王电影[影视]_XBPQ","type":3,"api":"csp_XBPQ","jar": "./XBPQ.jar","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
 {
-            "key": "555yingshi","name":"🔴555影视","type":3,"api":"csp_XBPQ","jar": "./spider.jar",
+            "key": "555yingshi","name":"🔴555影视","type":3,"api":"csp_XBPQ","jar": "./XBPQ.jar",
             "ext": {"分类":"电影$1#电视剧$2#福利$124#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
         },
         {
@@ -1107,7 +1139,7 @@
             "name": "盒子秒播|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1118,7 +1150,7 @@
             "name": "耐看影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./jars/耐看.jar",
+        "jar": "./XBPQ.jar",
             "ext": "./json/nk.json"
         },
         {
@@ -1126,7 +1158,7 @@
             "name": "星辰影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1137,7 +1169,7 @@
             "name": "VS秒播|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1148,7 +1180,7 @@
             "name": "九八秒播|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1159,7 +1191,7 @@
             "name": "骚火VIP|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1170,7 +1202,7 @@
             "name": "七新影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1181,7 +1213,7 @@
             "name": "蛋蛋影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1192,7 +1224,7 @@
             "name": "黑狐影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1203,7 +1235,7 @@
             "name": "可可影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1214,7 +1246,7 @@
             "name": "宿命影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "./json/宿命影视.json",
@@ -1225,7 +1257,7 @@
             "name": "NikeTV影视┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "./json/NikeTV.json",
@@ -1236,7 +1268,7 @@
             "name": "APP影院┃XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "changeable": 1,
             "ext": "./json/APP影院.json",
@@ -1247,7 +1279,7 @@
             "name": "348秒播|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1258,7 +1290,7 @@
             "name": "圣城影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1269,7 +1301,7 @@
             "name": "蛋蛋影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1280,7 +1312,7 @@
             "name": "麻衣呀呼|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1291,7 +1323,7 @@
             "name": "魔力高清|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1302,7 +1334,7 @@
             "name": "策驰影院|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1313,7 +1345,7 @@
             "name": "视频库|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1324,7 +1356,7 @@
             "name": "两个BT|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1335,7 +1367,7 @@
             "name": "七年影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1347,7 +1379,7 @@
             "name": "量子资源|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1358,7 +1390,7 @@
             "name": "开心影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1373,7 +1405,7 @@
             "changeable": 1,
             "playerType": "2",
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "ext": {
                 "站名": "黑狐影院",
                 "主页url": "http://fagmn.com",
@@ -1412,7 +1444,7 @@
             "name": "孜孜影视|XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./spider.jar",
+        "jar": "./XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1626,6 +1658,7 @@
       "name": "索尼资源|采集",
       "type": 0,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1690,6 +1723,7 @@
       "name": "暴风影视|采集",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1742,7 +1776,7 @@
             "name": "量子影视|采集",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-            "playUrl": "json:http://api.suxun.site/api/delad?url=",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "categories": [
         "电视剧",
         "连续剧",
@@ -2059,6 +2093,7 @@
       "name": "非凡影视|采集",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -2090,6 +2125,22 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+{"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
+                        "style": {
+                                "type": "rect",
+                                "ratio": 1.5
+                        }
+    },
+{"key":"PushShare1","name":"我的资源分享1","type":3, "api":"csp_PushShare","jar": "./pgspider.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/lib/pushshare1.txt$$$db$$$1"},
+{"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "jar": "./pgspider.jar","changeable":1, "filterable":0, "timeout":60},
+{
+      "key": "av188",
+      "name": "Netflav",
+      "type": 3,
+      "api": "csp_Netflav",
+      "searchable": 1,
+      "changeable": 0 ,"jar": "./pgspider.jar"
     }
     ],
   "doh": [
