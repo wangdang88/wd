@@ -1,8 +1,12 @@
 {
     "urls": [
 {
-            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/api.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/wd/api.json",
             "name": "自建"
+        },
+{
+            "url": "https://download.kstore.space/download/7699/wd/api.json",
+            "name": "自建备用"
         },
 {
             "url": "http://127.0.0.1:9978/file/wd/api.json",
