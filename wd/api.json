@@ -7,13 +7,13 @@
         {
             "name": "IPTV",
             "type": 0,
-            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV.m3u",
             "epg": "https://live.fanmingming.com/e.xml"
         },
         {
             "name": "IPTV1",
             "type": 0,
-            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV1.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wangdang88/wangdang88.github.io/main/IPTV1.m3u",
             "epg": "https://live.fanmingming.com/e.xml"
         },
         {
