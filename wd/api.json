@@ -974,6 +974,17 @@
             "quickSearch": 1,
             "ext": "./js/新视觉影视.js"
         },
+	    {"key":"csp_ysdq","name":"影视大全┃XBPQ","type":3,"api":"csp_XBPQ","jar": "./XBPQ.jar","ext": {
+                "主页url": "http://www.sxpxsm.com.cn/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "http://www.sxpxsm.com.cn/search.php?searchword={wd}",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "跳转播放链接": "var now=\"&&\"",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+                "分类url": "http://www.sxpxsm.com.cn/frim/{cateId}.html"}
+},
 {
         "key": "baipiaoys",
         "name": "白嫖影视┃XBPQ",
