@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://7699.kstore.space/wd/api.json",
+            "url": "https://raw.githubusercontent.com/wangdang88/wd/main/api.json",
             "name": "wdgithub仓库"
         },
 {
@@ -10,7 +10,7 @@
         },
         {
             "url": "https://7699.kstore.space/wd/api.json",
-            "name": "wd凯速仓库"
+            "name": "wd凯速仓库1"
         },
         {
             "url": "http://ok321.top/tv",
