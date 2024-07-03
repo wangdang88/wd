@@ -4,6 +4,10 @@
             "url": "https://raw.githubusercontent.com/wangdang88/wd/main/api.json",
             "name": "wdgithub仓库"
         },
+        {
+            "url": "https://js.wd666.cloudns.biz/https://raw.githubusercontent.com/wangdang88/wd/main/api.json",
+            "name": "wdgithub仓库1"
+        },
 {
             "url": "https://download.kstore.space/download/7699/wd/api.json",
             "name": "wd凯速仓库"
