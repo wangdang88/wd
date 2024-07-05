@@ -155,6 +155,11 @@
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"
         },
+              {  "key": "heimuer",
+    "name": "木木|采集",
+    "type": 1,
+    "api": "https://json.heimuer.xyz/api.php/provide/vod/"
+},
         {
             "key": "映播XBPQ",
             "name": "👒映播┃XBPQ",
