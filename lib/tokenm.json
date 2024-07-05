@@ -12,7 +12,7 @@
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
 "use_internal_storage":false,
-"token":"73e53f7322dc48679d6758e6e7b92d66",
+"token":"e398ddb3a59047059892220b2a3f07df",
 "open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
 "oauth_client_id":"",
