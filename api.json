@@ -126,23 +126,22 @@
 			}
 		},
 		{"key":"Wogg","name":"玩偶哥哥｜pg","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
-       {
+        {
             "key": "玩偶",
-           "name": "👽玩偶哥哥┃饭",
-           "type": 3,
-           "api": "csp_WoGG",
-            "jar": "./ftyspider.jar",
-           "searchable": 1,
+            "name": "👽玩偶哥哥┃饭",
+            "type": 3,
+            "api": "csp_WoGG",
+             "jar": "./ftyspider.jar",
+            "searchable": 1,
             "quickSearch": 1,
-           "changeable": 0,
+            "changeable": 0,
             "ext": {
-               "aliToken": "./lib/token.txt",
-               "quarkCookie": "tvfan/cookie.txt",
-              "from": "4k|auto|fhd",
-               "siteUrl": "https://www.wogg.link/",
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto",
+                "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
-           }
-       },
+            }
+        },
       //  {"key":"timizy","name":"🌞timi|官解","type":1,"api":"https://vipcj.timizy.com/api.php/provide/vod","categories":["国产剧","港台剧","日韩剧","欧美剧","电影","连续剧","综艺","动漫","其他剧","资讯","儿童","公告","头条"]},
         {
             "key": "蜡笔网盘",
