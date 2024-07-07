@@ -1,6 +1,58 @@
 {
     "urls": [
         {
+            "url": "file://wd/api.json",
+            "name": "wd本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/饭太硬/api.json",
+            "name": "饭太硬本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/小米/api.json",
+            "name": "小米本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/肥猫/api.json",
+            "name": "肥猫本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/王二小/api.json",
+            "name": "王二小本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/香雅情/api.json",
+            "name": "香雅情本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/南风/api.json",
+            "name": "南风本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/骚零/api.json",
+            "name": "骚零本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/OK/api.json",
+            "name": "OK本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/天天开心/api.json",
+            "name": "天天开心本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/白嫖/api.json",
+            "name": "白嫖本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/少儿频道/api.json",
+            "name": "少儿频道本地包"
+        },
+        {
+            "url": "file://wd/tvboxqq/动漫频道/api.json",
+            "name": "动漫频道本地包"
+        },
+        {
             "url": "https://raw.githubusercontent.com/wangdang88/wd/main/api.json",
             "name": "wdgithub仓库"
         },
