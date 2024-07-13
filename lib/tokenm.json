@@ -28,7 +28,7 @@
 "quark_vip_thread_limit":32,
 "quark_flags":"4kz|auto",
 "uc_thread_limit":0,
-"uc_is_vip":false,
+"uc_is_vip":true,
 "uc_vip_thread_limit":0,
 "uc_flags":"4kz|auto",
 "thunder_thread_limit":2,
