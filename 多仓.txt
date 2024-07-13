@@ -74,19 +74,24 @@
         },
 {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz",
-            "name": "王小二放牛娃"
+            "name": "牛二(常规xyz)"
         },
 {
             "url": "https://tvbox.王二小放牛娃.xyz",
-            "name": "王小二放牛娃1"
+            "name": "牛二(中文xyz)"
         },
 {
-            "url": "http://mtw.so/6oBvBN",
-            "name": "王小二放牛娃3"
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "牛二(中文top)"
         },
 {
-            "url": "https://tvbox.王二小放牛娃.xyz/index.php",
-            "name": "王小二放牛娃2"
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top
+",
+            "name": "牛二(常规top)"
+        },
+        {
+            "url": "http://tv.999888987.xyz/",
+            "name": "牛二(数字xyz)"
         },
 {
             "url": "http://我不是.摸鱼儿.top",
