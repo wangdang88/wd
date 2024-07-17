@@ -21,6 +21,10 @@
             "name": "王二小本地包"
         },
         {
+            "url": "https://7699.kstore.space/二小本地包.json",
+            "name": "王二小本地网络包"
+        },
+        {
             "url": "file://wd/tvboxqq/香雅情/api.json",
             "name": "香雅情本地包"
         },
