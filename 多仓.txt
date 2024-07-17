@@ -4,6 +4,12 @@
             "url": "file://wd/api.json",
             "name": "wd本地包"
         },
+        { "url": "https://wd-1328026047.cos.ap-chengdu.myqcloud.com/api.json",
+            "name": "wd腾讯云"
+        },
+        { "url": "https://wd-1328026047.cos.accelerate.myqcloud.com/api.json",
+            "name": "wd腾讯云全球"
+        },
         {
             "url": "file://wd/tvboxqq/饭太硬/api.json",
             "name": "饭太硬本地包"
