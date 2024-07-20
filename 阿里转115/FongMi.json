@@ -1,0 +1,18 @@
+{
+  "spider": "./custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+  "sites": [
+    {
+      "key": "玩偶 | DK",
+      "name": "玩偶 | DK",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://wogg.link/",
+        "filter": "./wogg.json"
+      }
+    }
+  ]
+}
