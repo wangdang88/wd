@@ -81,6 +81,22 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
+	//	{
+     //   "key": "py_emby",
+    //    "name": "EMBY",
+     //   "type": 3,
+    //    "api": "./py/py_emby.py",
+   //     "searchable": 1,
+    //    "quickSearch": 1,
+    //    "filterable": 1,
+    //    "ext": {
+     //       "server": "服务器地址加端口",
+     //       "username": "用户名",
+      //      "password": "密码",
+     //       "thread": 0
+   //     },
+   //     "changeable": 1
+  //  },
 		{
 			"key": "直播转点播",
 			"name": "电视|直播",
@@ -125,7 +141,21 @@
 		//		"ratio": 1.77
 	//		}
 	//	},
-		{"key":"Wogg","name":"👽玩偶哥哥｜pg","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
+	    {
+      "key": "玩偶哥哥｜阿里转115",
+      "name": "玩偶哥哥｜阿里转115",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar":"./阿里转115/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./阿里转115/peizhi.json",
+        "siteUrl": "https://wogg.link/",
+        "filter": "./阿里转115/wogg.json"
+      }
+      },
+		{"key":"Wogg","name":"👽玩偶哥哥｜pg","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
         {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃饭",
