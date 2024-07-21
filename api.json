@@ -151,11 +151,11 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./阿里转115/peizhi.json",
-        "siteUrl": "https://wogg.link/",
+        "siteUrl": "https://www.wogg.net/",
         "filter": "./阿里转115/wogg.json"
       }
       },
-		{"key":"Wogg","name":"👽玩偶哥哥｜pg","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
+		{"key":"Wogg","name":"👽玩偶哥哥｜pg","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json"},
         {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃饭",
