@@ -155,6 +155,20 @@
         "filter": "./阿里转115/wogg.json"
       }
       },
+      {
+  "key": "网盘集合",
+  "name": "真心大佬网盘集合",
+  "type": 3,
+  "api": "csp_网盘集合",
+  "jar":"./阿里转115/custom_spider.jar",
+  "searchable": 1,
+  "filterable": 0,
+  "switchable": 0,
+  "ext": {
+    "commonConfig": "./阿里转115/peizhi.json",
+    "share": "./阿里转115/网盘集合.json"
+  }
+},
 		{"key":"Wogg","name":"👽玩偶哥哥｜pg","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json"},
         {
             "key": "玩偶",
@@ -765,7 +779,7 @@
       "name": "📓賤片┃盒子┃P2P",
       "type": 3,
       "api": "csp_WexJianpian",
-      "jar": "./wex.txt",
+          "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -949,7 +963,7 @@
       "searchable": 1,
       "changeable": 1
     },
-{"key": "push_agent","name": "🏮PG推送🏮","type": 3,"api": "csp_Push","changeable":0, "timeout":60, "ext":"./lib/tokenm.json"},	
+{"key": "push_agent","name": "🏮PG推送🏮","type": 3,"api": "csp_Push","changeable":0, "timeout":60, "ext":"./lib/tokenm.json"},
        {
 		"key":"bili",
 	"name":"B站 | Bili[jar]",
