@@ -4,6 +4,10 @@
             "url": "file://wd/api.json",
             "name": "wd本地包"
         },
+                {
+            "url": "http://u6v.cn/5zvS0s",
+            "name": "二小加速地址配置"
+        },
         { "url": "https://wd-1328026047.cos.ap-chengdu.myqcloud.com/api.json",
             "name": "wd腾讯云"
         },
