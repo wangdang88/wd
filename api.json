@@ -520,15 +520,6 @@
             "timeout": 10
         },
 {"key":"Wogg","name":"玩偶哥哥代理|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$socks5://127.0.0.1:10071$$$1$$$./lib/wogg.json"},
-{   "key": "阿里云集合",
-   "name": "真心真语网盘",
-   "type": 3,
-   "api": "csp_阿里云集合",
-   "searchable": 1,
-   "filterable": 0,
-   "switchable": 0,
-   "ext": "./阿里集合.json;8af8d139cb8a484b8dcc89925a190a3f","jar": "./zxzy0204.jar"
-},
 {"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1, "quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/quarkshare.txt",
 			"style": {
 				"type": "list",

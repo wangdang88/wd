@@ -12,16 +12,36 @@
             "name": "wd腾讯云"
         },
         {
-            "url": "file://wd/tvboxqq/饭太硬/api.json",
-            "name": "饭太硬本地包"
+            "url": "https://7699.kstore.space/token.txt",
+            "name": "点击复制阿里token网络地址"
+        },
+        {  
+        "url": "http://127.0.0.1:9978/file/tvfan/token.txt",
+            "name": "点击复制阿里token本地地址"
+        },
+                {
+            "url": "https://7699.kstore.space/cookie.txt",
+            "name": "点击复制夸克cookie网络地址"
+        },
+        {  
+        "url": "http://127.0.0.1:9978/file/tvfan/cookie.txt",
+            "name": "点击复制夸克cookie本地地址"
         },
         {
-            "url": "file://wd/tvboxqq/小米/api.json",
-            "name": "小米本地包"
+            "url": "https://7699.kstore.space/uccookie.txt",
+            "name": "点击复制UCcookie网络地址"
+        },
+        {  
+        "url": "http://127.0.0.1:9978/file/tvfan/uccookie.txt",
+            "name": "点击复制UCcookie本地地址"
         },
         {
-            "url": "file://wd/tvboxqq/肥猫/api.json",
-            "name": "肥猫本地包"
+            "url": "https://7699.kstore.space/115cookie.txt",
+            "name": "点击复制115cookie网络地址"
+        },
+        {  
+        "url": "http://127.0.0.1:9978/file/tvfan/115cookie.txt",
+            "name": "点击复制115cookie本地地址"
         },
         {
             "url": "https://7699.kstore.space/二小/二小.json",
@@ -30,38 +50,6 @@
         {
             "url": "https://7699.kstore.space/二小本地包.json",
             "name": "二小本地网络包"
-        },
-        {
-            "url": "file://wd/tvboxqq/香雅情/api.json",
-            "name": "香雅情本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/南风/api.json",
-            "name": "南风本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/骚零/api.json",
-            "name": "骚零本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/OK/api.json",
-            "name": "OK本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/天天开心/api.json",
-            "name": "天天开心本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/白嫖/api.json",
-            "name": "白嫖本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/少儿频道/api.json",
-            "name": "少儿频道本地包"
-        },
-        {
-            "url": "file://wd/tvboxqq/动漫频道/api.json",
-            "name": "动漫频道本地包"
         },
         {
             "url": "https://raw.githubusercontent.com/wangdang88/wd/main/api.json",
@@ -85,101 +73,28 @@
         },
 {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz",
-            "name": "牛二(常规xyz)"
+            "name": "二小(常规xyz)"
         },
 {
             "url": "https://tvbox.王二小放牛娃.xyz",
-            "name": "牛二(中文xyz)"
+            "name": "二小(中文xyz)"
         },
 {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "牛二(中文top)"
+            "name": "二小(中文top)"
         },
 {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top
 ",
-            "name": "牛二(常规top)"
+            "name": "二小(常规top)"
         },
         {
             "url": "http://tv.999888987.xyz/",
-            "name": "牛二(数字xyz)"
-        },
-{
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "摸鱼儿"
-        },
-{
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
-            "name": "公众号【宝盒迷】"
-        },
- {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
-            "name": "香雅情"
+            "name": "二小(数字xyz)"
         },
         {
             "url": "http://饭太硬.com/tv",
             "name": "饭太硬"
-        },
-{
-            "url": "http://xiaohu.xzam.cn/xiaohu",
-            "name": "小胡"
-        },
- {
-            "url": "http://肥猫.live",
-            "name": "肥猫不肥"
-        },
-        {
-            "url": "https://wds.ecsxs.com/230989.json",
-            "name": "春盈"
-        },
-            {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "老刘备"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "小米DEMO"
-        },
-         {
-            "url": "https://www.macms.pro/box/3.json",
-            "name": "万达"
-        },
-  {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长神魔"
-        },
-      {
-            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-            "name": "业余"
-        },
-         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高山流水"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "影视车运输"
-        },    
-      {
-            "url": "http://rihou.cc:99/荷城茶秀",
-            "name": "荷城茶秀"
-        },
-  {
-            "url": "http://rihou.vip:55/天天开心",
-            "name": "日后"
-        },
-
-                     {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧计"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "😹云星日记"
-        },
-        {
-            "url": "http://8.210.232.168/xc.json",
-            "name": "玉玉"
         }
     ]
 }
